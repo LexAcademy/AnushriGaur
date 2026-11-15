@@ -1,52 +1,11 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Payment & Enrolment | Lex Academy</title>
-<meta name="description" content="Lex Academy payment details, UPI QR code and student enrolment process.">
-<style>
-*{box-sizing:border-box}
-body{margin:0;font-family:Arial,sans-serif;background:#f8f9fc;color:#333;line-height:1.7}
-header{background:#102746;color:white;padding:18px 20px}
-.header-inner{max-width:1050px;margin:auto;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}
-header h2{margin:0;color:#fff}
-nav a{color:white;text-decoration:none;margin-left:18px;font-size:14px}
-.container{max-width:1000px;margin:35px auto;padding:0 18px}
-.intro{text-align:center;margin-bottom:30px}
-.intro h1{color:#102746;margin-bottom:8px}
-.intro p{color:#666}
-.payment-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:22px}
-.card{background:white;padding:25px;border-radius:12px;box-shadow:0 3px 15px rgba(0,0,0,.06)}
-.card h2,.card h3{color:#102746;margin-top:0}
-.bank-detail{margin:15px 0;border-bottom:1px solid #eee;padding-bottom:10px}
-.bank-detail strong{display:block;color:#102746}
-.upi{text-align:center}
-.qr{width:220px;max-width:100%;height:auto;padding:8px;border:1px solid #ddd;border-radius:8px;margin:12px auto}
-.steps{background:white;padding:25px;border-radius:12px;margin-top:25px;box-shadow:0 3px 15px rgba(0,0,0,.06)}
-.steps li{margin-bottom:14px;padding-left:5px}
-.notice{background:#fff8e8;border-left:4px solid #C6A45B;padding:15px;margin-top:20px;border-radius:5px;color:#66552f}
-.whatsapp{display:inline-block;background:#25D366;color:white;padding:13px 25px;border-radius:7px;text-decoration:none;font-weight:bold;margin-top:15px}
-.back{display:inline-block;color:#102746;text-decoration:none;font-weight:bold;margin-top:25px}
-footer{background:#102746;color:white;text-align:center;padding:20px;margin-top:40px;font-size:13px}
-@media(max-width:600px){.header-inner{justify-content:center;text-align:center}nav a{margin:0 7px}}
-</style>
-</head>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Payment & Enrolment | Lex Academy</title><link rel="stylesheet" href="styles.css"></head><body><header><a class="brand" href="index.html"><span class="brand-mark">L</span><span>LEX <b>ACADEMY</b><small>UPSC & Judicial Service Examination Guidance by ANUSHRI GAUR</small></span></a></header>
 <body>
-
-<header>
-<a class="brand" href="index.html"><span class="brand-mark">Lex</span><span>LEX <b>ACADEMY</b><small>UPSC & Judicial Service Examination Guidance by Anushri Gaur</small></span></a></header>
-
 <main class="container">
-
 <div class="intro">
 <h1>Payment & Enrolment</h1>
 <p>Complete your programme payment using the bank transfer or UPI details below to proceed with enrolment at Lex Academy.</p>
 </div>
-
 <div class="payment-grid">
-
 <div class="card">
 <h2>Bank Account Details</h2>
 <div class="bank-detail"><strong>Account Name</strong>ANUSHRI GAUR</div>
@@ -55,16 +14,13 @@ footer{background:#102746;color:white;text-align:center;padding:20px;margin-top:
 <div class="bank-detail"><strong>IFSC Code</strong>KKBK0003630</div>
 <div class="bank-detail"><strong>Branch</strong>JODHPUR-MANDORE ROAD</div>
 </div>
-
 <div class="card upi">
 <h2>Pay via UPI</h2>
 <p>Scan the QR code below to make payment.</p>
 <img class="qr" src="images/lex-academy-upi-qr.png" alt="Lex Academy UPI Payment QR Code">
 <p style="font-size:13px;color:#777">Please verify the recipient name before completing payment.</p>
 </div>
-
 </div>
-
 <section class="steps">
 <h2 style="color:#102746">Payment & Enrolment Process</h2>
 <ol>
@@ -76,28 +32,21 @@ footer{background:#102746;color:white;text-align:center;padding:20px;margin-top:
 <li><strong>Enrolment Verification:</strong> The academy will verify the payment and confirm your enrolment through WhatsApp.</li>
 <li><strong>Programme Access:</strong> After confirmation, the academy will share the relevant programme details, instructions and access information.</li>
 </ol>
-
 <div class="notice">
 <strong>Important:</strong> Enrolment will be considered confirmed only after the academy verifies the payment and communicates confirmation to the student. Please do not treat a payment screenshot alone as confirmation of enrolment.
 </div>
-
 <div style="text-align:center">
 <a class="whatsapp" href="https://wa.me/919950823636?text=Hello%20Lex%20Academy%2C%20I%20have%20completed%20the%20payment.%0A%0AName%3A%0AMobile%20Number%3A%0AProgramme%3A%0AAmount%3A%0ATransaction%20Reference%3A%0A" target="_blank" rel="noopener">Share Payment Screenshot on WhatsApp</a>
 </div>
 </section>
-
 <a class="btn navy" href="index.html">Back to website</a>
-
 </main>
-
 <footer><div><a class="brand footer-brand" href="#home"><span class="brand-mark">Lex</span><span>LEX <b>ACADEMY</b><small>UPSC & Judicial Service Examination Guidance by Anushri Gaur</small></span></a>
 <p>Think like a lawyer. Write like a topper.</p>
 </div>
 <small>© <span id="year"></span> Lex Academy. All rights reserved.</small></footer>
-
 <script>
 document.getElementById("year").textContent=new Date().getFullYear();
 </script>
-
 </body>
 </html>
