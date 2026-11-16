@@ -1,58 +1,46 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="Lex Academy — UPSC Law & Judiciary examination test series and mentorship with Advocate Anushri Gaur">
-<title>Lex Academy | UPSC & Judiciary Examination Guidance </title>
-<meta name="description" content="Prepare for UPSC Law Optional with Advocate Anushri Gaur. Explore structured test series, personalised mentorship, answer writing practice and DAF interview guidance at Lex Academy.">
-<meta name="robots" content="index, follow">
-<meta property="og:title" content="UPSC Law Optional Coaching & Test Series | Lex Academy">
-<meta property="og:description" content="Structured UPSC Law Optional test series, personalised mentorship and interview preparation with Advocate Anushri Gaur.">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>UPSC Law Optional Test Series & Mentorship | Lex Academy</title>
+<meta name="description" content="Lex Academy offers UPSC Law Optional test series, personalised mentorship, answer-writing guidance, customised tests and DAF interview preparation with Advocate Anushri Gaur.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://lexacademy.in/">
+<meta property="og:title" content="UPSC Law Optional Test Series & Mentorship | Lex Academy">
+<meta property="og:description" content="Structured UPSC Law Optional test series, personalised mentorship, customised practice and interview guidance with Advocate Anushri Gaur.">
 <meta property="og:url" content="https://lexacademy.in/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Lex Academy">
+<meta name="twitter:card" content="summary">
 <link rel="stylesheet" href="styles.css">
-<script defer src="config.js"></script><script defer src="app.js"></script>
+<script defer src="config.js"></script>
+<script defer src="app.js"></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "EducationalOrganization",
-  "name": "Lex Academy",
-  "url": "https://lexacademy.in/",
-  "description": "Lex Academy provides UPSC Law Optional coaching, customised test series, personalised mentorship, answer writing guidance, DAF analysis and interview preparation.",
-  "areaServed": {
-    "@type": "Country",
-    "name": "India"
-},
-  "founder": [
+  "@graph": [
     {
-      "@type": "Person",
-      "name": "Anushri Gaur",
-      "@id": "#Founder- Anushri",
-      "jobTitle": "Co-Founder, Advocate and Law Educator",
-      "sameAs": [
-        "https://www.linkedin.com/in/anushri-gaur-aab3ba107/"
-      ]
+      "@type": "WebSite",
+      "@id": "https://lexacademy.in/#website",
+      "url": "https://lexacademy.in/",
+      "name": "Lex Academy",
+      "alternateName": "lexacademy.in",
+      "inLanguage": "en-IN"
     },
     {
-      "@type": "Person",
-      "@id": "#Founder- Yash",
-      "name": "Yash Varma",
-      "jobTitle": "Co-Founder",
-      "sameAs": [
-        "https://www.linkedin.com/in/yash-varma-18011996/"
-      ]
+      "@type": "EducationalOrganization",
+      "@id": "https://lexacademy.in/#organization",
+      "name": "Lex Academy",
+      "url": "https://lexacademy.in/",
+      "description": "Lex Academy provides UPSC Law Optional test series, personalised mentorship, answer-writing guidance, customised tests, DAF analysis and interview preparation.",
+      "areaServed": {"@type": "Country", "name": "India"},
+      "founder": [
+        {"@type":"Person","name":"Anushri Gaur","jobTitle":"Co-Founder, Advocate and Law Educator","sameAs":["https://www.linkedin.com/in/anushri-gaur-aab3ba107/"]},
+        {"@type":"Person","name":"Yash Varma","jobTitle":"Co-Founder","sameAs":["https://www.linkedin.com/in/yash-varma-18011996/"]}
+      ],
+      "knowsAbout": ["UPSC Law Optional","Constitutional Law","Jurisprudence","Law Optional Answer Writing","UPSC DAF Analysis","UPSC Interview Preparation","Gujarat Judicial Service Examination"]
     }
-  ]
-}
-  
-  "knowsAbout": [
-    "UPSC Law Optional",
-    "Constitutional Law",
-    "Jurisprudence",
-    "Law Optional Answer Writing",
-    "UPSC DAF Analysis",
-    "UPSC Interview Preparation"
   ]
 }
 </script>
@@ -83,5 +71,17 @@
 <form id="enquiryForm"><div class="formrow"><label>Full name<input name="full_name" required maxlength="100" autocomplete="name"></label><label>Email address<input name="email" type="email" required maxlength="200" autocomplete="email"></label></div><div class="formrow"><label>Mobile number<input name="phone" type="tel" required maxlength="25" autocomplete="tel"></label><label>Target examination<select name="target_exam"><option value="">Select an exam</option><option>UPSC-CSE Law Optional</option><option>RAS</option><option>Gujarat Judiciary</option><option>Other</option></select></label></div><label>Programme of interest<select name="program" id="programSelect" required><option value="">Choose a programme</option><option>Mid-Length Test Series</option><option>Full-Length Tests</option><option>Mock Simulator</option><option>One-to-One Mentorship Call</option><option>Mock Interview</option><option>DAF analysis</option><option>Customize Test Series</option><option>Need guidance choosing</option></select></label><div class="form-group"><label for="referralCode">Referral Code (6 Characters – Optional)</label><input type="text" id="referralCode" name="referral_code" placeholder="Enter 6-character referral code" maxlength="6" minlength="6" pattern="[A-Z0-9]{6}" oninput="this.value=this.value.toUpperCase().replace(/[^A-Z0-9]/g,'').slice(0,6)" autocomplete="off" title="Please enter exactly 6 alphanumeric characters in capital letters"></div><label>What support are you looking for? <small>(optional)</small><textarea name="message" rows="4" maxlength="1500"></textarea></label><label class="consent"><input type="checkbox" name="consent" required><span>I agree that Lex Academy may use these details to respond to my enquiry. I have read the <a href="privacy.html" target="_blank" rel="noopener">Privacy Notice</a>.</span></label><button class="btn navy" id="submitButton">Submit Enquiry</button><p id="formStatus" role="status" aria-live="polite"></p><small class="note">Do not include sensitive personal information. This form is for enquiries only.</small></form></section>
 </main>
 <section id="contact" style="padding:50px 20px;background:#f8f9fc;text-align:center;"><h2 style="color:#102746;">Contact Us</h2><p>Connect with Adv. Anushri Gaur for UPSC & Judicial Service Examination preparation programmes.</p><h3 style="color:#102746;">Adv. Anushri Gaur</h3><a href="https://wa.me/919950823636" target="_blank" style="display:inline-block;background:#25D366;color:white;padding:12px 22px;margin:8px;border-radius:6px;text-decoration:none;">WhatsApp Us</a><a href="mailto:Anushrigaur1995@gmail.com" style="display:inline-block;background:#102746;color:white;padding:12px 22px;margin:8px;border-radius:6px;text-decoration:none;">Email Us</a><a href="https://t.me/lexacademybyanushri" target="_blank" style="display:inline-block;background:#229ED9;color:white;padding:12px 22px;margin:8px;border-radius:6px;text-decoration:none;">Telegram Channel</a><div style="margin-top:25px;"><h3 style="color:#102746;">Join Our Telegram Channel</h3><p style="color:#666;">Scan the QR code below to join the Lex Academy Telegram channel.</p><img src="images/lex-academy-telegram-qr.png" alt="Lex Academy Telegram Channel QR Code" style="width:190px;max-width:100%;height:auto;border:1px solid #ddd;border-radius:8px;padding:8px;"><p style="font-size:13px;color:#777;">Scan using your mobile phone camera or Telegram app.</p><p style="color:#777;">Lex Academy | Personalised Guidance for Your Civil & Judical Services Journey</p></section>
-<footer><div><a class="brand footer-brand" href="#home"><span class="brand-mark">Lex</span><span>LEX <b>ACADEMY</b><small>UPSC Law & Judiciary examination test series and mentorship with Advocate Anushri Gaur</small></span></a><p>Think like a lawyer. Write like a topper.</p></div><nav><a href="#educator">Educator</a><a href="#programs">Test Series</a><a href="privacy.html">Privacy</a><a href="terms.html">Terms & Refunds</a></nav><small>© <span id="year"></span> Lex Academy. All rights reserved.</small></footer>
+<footer><div><a class="brand footer-brand" href="index.html"><span class="brand-mark">Lex</span><span>LEX <b>ACADEMY</b><small>UPSC Law Optional & Judicial Service examination guidance</small></span></a><p>Think like a lawyer. Write like a topper.</p></div><nav aria-label="Footer navigation">
+<a href="index.html">Home</a>
+<a href="upsc-law-optional.html">UPSC Law Optional</a>
+<a href="upsc-law-optional-test-series.html">Law Optional Test Series</a>
+<a href="law-optional-mentorship.html">Law Optional Mentorship</a>
+<a href="customised-law-optional-test-series.html">Customised Test Series</a>
+<a href="upsc-daf-interview-guidance.html">UPSC DAF & Interview</a>
+<a href="gujarat-judiciary-guidance.html">Gujarat Judiciary</a>
+<a href="anushri-gaur.html">Advocate Anushri Gaur</a>
+<a href="payment.html">Payment & Enrolment</a>
+<a href="privacy.html">Privacy</a>
+<a href="terms.html">Terms & Refunds</a>
+</nav><small>© <span id="year"></span> Lex Academy. All rights reserved.</small></footer>
 </body></html>
