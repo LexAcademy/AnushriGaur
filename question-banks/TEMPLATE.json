@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "examId": "rjs-or-upsc-example",
+  "title": "Replace with Exam Name",
+  "sourceNote": "Copy this file, rename it, add it to pyq-exams.json, and insert your questions. No change to pyq-practice.html, pyq-practice.css or pyq-practice.js is required.",
+  "questions": [
+    {
+      "id": "unique-id",
+      "year": 2026,
+      "paper": "Prelims",
+      "sourceQuestion": 1,
+      "subject": "Subject Name",
+      "question": "Question text",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lex Academy explanation.",
+      "reference": "Act / section / official answer key",
+      "sourceUrl": "",
+      "status": "ready",
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "examId": "gujarat-judiciary",
+  "title": "Gujarat Judiciary Prelims Question Bank",
+  "sourceNote": "Starter bank. Replace/extend with question text from PDFs you are authorized to use. The universal engine supports all years in this one file.",
+  "questions": [
+    {
+      "id": "gj-demo-2023-001",
+      "year": 2023,
+      "paper": "Prelims",
+      "sourceQuestion": 1,
+      "subject": "Constitutional Law",
+      "question": "Which Article of the Constitution of India guarantees equality before law and equal protection of the laws?",
+      "options": [
+        "Article 12",
+        "Article 14",
+        "Article 19",
+        "Article 21"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 14 guarantees equality before the law and equal protection of the laws within the territory of India.",
+      "reference": "Constitution of India, Article 14",
+      "status": "ready"
+    },
+    {
+      "id": "gj-demo-2022-001",
+      "year": 2022,
+      "paper": "Prelims",
+      "sourceQuestion": 1,
+      "subject": "Civil Procedure",
+      "question": "The doctrine of res judicata is principally contained in which provision of the Code of Civil Procedure, 1908?",
+      "options": [
+        "Section 9",
+        "Section 10",
+        "Section 11",
+        "Section 12"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Section 11 CPC embodies the doctrine of res judicata and prevents re-litigation of matters that have already been finally adjudicated between the relevant parties.",
+      "reference": "Code of Civil Procedure, 1908, Section 11",
+      "status": "ready"
+    },
+    {
+      "id": "gj-demo-2020-001",
+      "year": 2020,
+      "paper": "Prelims",
+      "sourceQuestion": 1,
+      "subject": "Contract Law",
+      "question": "Under the Indian Contract Act, 1872, an agreement without consideration is generally:",
+      "options": [
+        "Valid in every case",
+        "Void, subject to statutory exceptions",
+        "Voidable at the option of the promisor",
+        "Illegal in every case"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 25 states the general rule that an agreement without consideration is void, subject to the exceptions contained in that provision.",
+      "reference": "Indian Contract Act, 1872, Section 25",
+      "status": "ready"
+    },
+    {
+      "id": "gj-demo-2019-001",
+      "year": 2019,
+      "paper": "Prelims",
+      "sourceQuestion": 1,
+      "subject": "Evidence",
+      "question": "The burden of proving a fact generally lies on the person who:",
+      "options": [
+        "Denies every fact",
+        "Asserts the fact and asks the court to act on it",
+        "Appears first before the court",
+        "Is the defendant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "As a general rule, the burden lies on the person who asserts the existence of a fact and seeks a judicial determination based on it, subject to statutory presumptions and exceptions.",
+      "reference": "Indian Evidence Act, 1872, Sections 101-102",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Interactive PYQ Practice | Lex Academy</title>
+<meta name="description" content="Practice previous year questions interactively with instant answer feedback, explanations, progress tracking and full question-bank coverage at Lex Academy.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="https://lexacademy.in/pyq-practice.html">
+<meta property="og:title" content="Interactive PYQ Practice | Lex Academy">
+<meta property="og:description" content="Practice complete previous-year question banks with instant answers, explanations and progress tracking.">
+<meta property="og:url" content="https://lexacademy.in/pyq-practice.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Lex Academy">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="pyq-practice.css">
+<script defer src="config.js"></script>
+<script defer src="app.js"></script>
+<script defer src="pyq-practice.js"></script>
+</head>
+
+<body>
+<header>
+  <a class="brand" href="index.html">
+    <span class="brand-mark">Lex</span>
+    <span>LEX <b>ACADEMY</b><small>UPSC & Judicial Service Examination Guidance by ANUSHRI GAUR</small></span>
+  </a>
+  <button id="menu" aria-label="Open menu">☰</button>
+  <nav id="nav">
+    <a href="index.html#educator">Educator</a>
+    <a href="index.html#programs">Test Series</a>
+    <a href="index.html#mentorship">Mentorship</a>
+    <a href="gujarat-judiciary-guidance.html">Gujarat Judiciary</a>
+    <a href="index.html#contact">Contact Us</a>
+    <a href="index.html#enquiry" class="nav-cta">Enquire Now</a>
+  </nav>
+</header>
+
+<main class="lpq-page">
+
+<section class="lpq-hero">
+  <div class="lpq-wrap lpq-hero-grid">
+    <div>
+      <p class="lpq-eyebrow" id="examEyebrow">PREVIOUS YEAR QUESTIONS</p>
+      <h1 id="examTitle">Interactive PYQ Practice</h1>
+      <p class="lpq-lead" id="examDescription">Loading question bank…</p>
+      <div class="lpq-meta">
+        <span><strong id="bankCount">0</strong> questions in bank</span>
+        <span><strong id="yearCount">0</strong> exam years</span>
+        <span>Instant feedback</span>
+        <span>Progress saved</span>
+      </div>
+    </div>
+
+    <aside class="lpq-hero-card">
+      <span class="lpq-small-label">CURRENT SESSION</span>
+      <strong id="sessionScope">Full Question Bank</strong>
+      <p id="sessionSummary">Preparing your question queue…</p>
+      <a id="backToExamPage" href="index.html">View exam guide →</a>
+    </aside>
+  </div>
+</section>
+
+<section class="lpq-filterbar">
+  <div class="lpq-wrap lpq-filter-grid">
+    <label>
+      <span>Year</span>
+      <select id="yearFilter">
+        <option value="all">All years</option>
+      </select>
+    </label>
+
+    <label>
+      <span>Subject</span>
+      <select id="subjectFilter">
+        <option value="all">All subjects</option>
+      </select>
+    </label>
+
+    <label>
+      <span>Order</span>
+      <select id="orderFilter">
+        <option value="shuffle">Shuffle once</option>
+        <option value="paper">Paper order</option>
+      </select>
+    </label>
+
+    <button id="startFilteredSession" class="lpq-btn gold" type="button">Start / Apply</button>
+  </div>
+</section>
+
+<section class="lpq-wrap lpq-layout">
+
+  <aside class="lpq-sidebar">
+    <div class="lpq-panel">
+      <p class="lpq-small-label">SESSION PROGRESS</p>
+      <div class="lpq-progress"><span id="progressBar"></span></div>
+      <div class="lpq-progress-copy">
+        <strong><span id="answeredCount">0</span>/<span id="sessionCount">0</span></strong>
+        <span>answered</span>
+      </div>
+
+      <div class="lpq-score-grid">
+        <div><strong id="correctCount">0</strong><span>Correct</span></div>
+        <div><strong id="wrongCount">0</strong><span>Incorrect</span></div>
+        <div><strong id="remainingCount">0</strong><span>Remaining</span></div>
+      </div>
+
+      <div class="lpq-panel-actions">
+        <button id="resumeButton" class="lpq-mini-btn" type="button">Resume Saved</button>
+        <button id="restartButton" class="lpq-mini-btn danger" type="button">Restart Session</button>
+      </div>
+    </div>
+
+    <div class="lpq-panel">
+      <div class="lpq-nav-heading">
+        <strong>Question Navigator</strong>
+        <span id="navigatorCaption">0 questions</span>
+      </div>
+      <div id="questionNavigator" class="lpq-navigator"></div>
+      <div class="lpq-legend">
+        <span><i class="current"></i>Current</span>
+        <span><i class="correct"></i>Correct</span>
+        <span><i class="wrong"></i>Incorrect</span>
+        <span><i></i>Unanswered</span>
+      </div>
+    </div>
+
+    <div class="lpq-panel lpq-bank-info">
+      <p class="lpq-small-label">BANK COVERAGE</p>
+      <p id="coverageText">The default session uses the complete question bank.</p>
+      <div id="yearBreakdown" class="lpq-year-breakdown"></div>
+    </div>
+  </aside>
+
+  <section class="lpq-main">
+    <div id="loadingState" class="lpq-state-card">
+      <strong>Loading question bank…</strong>
+      <p>Please wait while Lex Academy prepares the practice session.</p>
+    </div>
+
+    <div id="errorState" class="lpq-state-card error" hidden>
+      <strong>Question bank could not be loaded.</strong>
+      <p id="errorText"></p>
+    </div>
+
+    <div id="practiceArea" hidden>
+      <div class="lpq-toolbar">
+        <div>
+          <span class="lpq-small-label">QUESTION</span>
+          <strong><span id="currentPosition">1</span> of <span id="totalPosition">0</span></strong>
+        </div>
+        <div class="lpq-tags">
+          <span id="yearBadge"></span>
+          <span id="subjectBadge"></span>
+        </div>
+      </div>
+
+      <article class="lpq-question-card">
+        <div class="lpq-question-head">
+          <div id="questionNumber" class="lpq-number">1</div>
+          <div>
+            <div id="sourceQuestion" class="lpq-source-number"></div>
+            <h2 id="questionText"></h2>
+          </div>
+        </div>
+
+        <div id="qualityNotice" class="lpq-quality-notice" hidden></div>
+
+        <div id="optionsList" class="lpq-options"></div>
+
+        <div id="feedbackBox" class="lpq-feedback" hidden>
+          <div id="feedbackTitle" class="lpq-feedback-title"></div>
+          <div id="correctAnswerLine" class="lpq-answer-line"></div>
+          <div class="lpq-explanation">
+            <strong>Explanation</strong>
+            <p id="explanationText"></p>
+          </div>
+          <div id="referenceLine" class="lpq-reference" hidden></div>
+        </div>
+      </article>
+
+      <div class="lpq-controls">
+        <button id="previousButton" class="lpq-btn secondary" type="button">← Previous</button>
+        <button id="skipButton" class="lpq-btn text" type="button">Skip for now</button>
+        <button id="nextButton" class="lpq-btn primary" type="button">Next →</button>
+      </div>
+
+      <div id="completeBox" class="lpq-complete" hidden>
+        <p class="lpq-eyebrow">SESSION COMPLETE</p>
+        <h2><span id="finalCorrect">0</span>/<span id="finalTotal">0</span> correct</h2>
+        <p id="finalCopy"></p>
+        <div class="lpq-complete-actions">
+          <button id="reviewWrongButton" class="lpq-btn primary" type="button">Review Incorrect</button>
+          <button id="newRunButton" class="lpq-btn secondary" type="button">New Full-Bank Run</button>
+        </div>
+      </div>
+    </div>
+  </section>
+</section>
+
+<section class="lpq-info">
+  <div class="lpq-wrap lpq-info-grid">
+    <div>
+      <p class="lpq-eyebrow">HOW THIS ENGINE WORKS</p>
+      <h2>One engine. Any exam. One complete bank per session.</h2>
+    </div>
+    <div class="lpq-info-list">
+      <p><strong>Full coverage</strong><br>The default session contains every usable question in the selected exam bank.</p>
+      <p><strong>No repetition</strong><br>The queue is created once. A question is not repeated until the session is completed or restarted.</p>
+      <p><strong>Optional filters</strong><br>Students may practise a particular year or subject without creating separate HTML pages.</p>
+      <p><strong>Reusable platform</strong><br>RJS, UPSC and other exams use the same HTML/CSS/JS; only the JSON configuration and question bank change.</p>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div>
+    <a class="brand footer-brand" href="index.html">
+      <span class="brand-mark">Lex</span>
+      <span>LEX <b>ACADEMY</b><small>UPSC Law Optional & Judicial Service Examination Guidance</small></span>
+    </a>
+    <p>Think like a lawyer. Write like a topper.</p>
+  </div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="gujarat-judiciary-guidance.html">Gujarat Judiciary</a>
+    <a href="pyq-practice.html?exam=gujarat-judiciary">PYQ Practice</a>
+    <a href="index.html#programs">Test Series</a>
+    <a href="privacy.html">Privacy</a>
+    <a href="terms.html">Terms & Refunds</a>
+  </nav>
+  <small>© <span id="year"></span> Lex Academy. All rights reserved.</small>
+</footer>
+
+</body>
+</html>

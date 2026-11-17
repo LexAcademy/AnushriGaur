@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "exams": [
+    {
+      "id": "gujarat-judiciary",
+      "name": "Gujarat Judiciary",
+      "pageTitle": "Gujarat Judiciary Previous Year Questions",
+      "eyebrow": "GUJARAT CIVIL JUDGE · PRELIMS PYQs",
+      "description": "Practice the Gujarat Civil Judge Preliminary Examination question bank across available previous-year papers with instant answer feedback and explanations.",
+      "guideUrl": "gujarat-judiciary-guidance.html",
+      "bank": "question-banks/gujarat-judiciary.json"
+    }
+  ]
+}
