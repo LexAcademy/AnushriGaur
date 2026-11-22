@@ -9,6 +9,15 @@
       "description": "Practice the Gujarat Civil Judge Preliminary Examination question bank across available previous-year papers with instant answer feedback and explanations.",
       "guideUrl": "gujarat-judiciary-guidance.html",
       "bank": "question-banks/gujarat-judiciary.json"
+    },
+    {
+      "id": "rjs",
+      "name": "Rajasthan Judiciary",
+      "pageTitle": "Rajasthan Judiciary Previous Year Questions",
+      "eyebrow": "RAJASTHAN CIVIL JUDGE · PRELIMS PYQs",
+      "description": "Practise questions from the supplied 2015 and 2017 Rajasthan Civil Judge prelims papers.",
+      "guideUrl": "rjs-guidance.html",
+      "bank": "question-banks/rjs.json"
     }
   ]
 }
