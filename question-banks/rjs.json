@@ -1,0 +1,3408 @@
+{
+  "schemaVersion": 1,
+  "examId": "rjs",
+  "title": "Rajasthan Judiciary Prelims Question Bank",
+  "sourceNote": "Based on the supplied Law Mock prelims-2015.pdf and prelims-2017.pdf, with 85 questions from each source. Years and question numbers are the labels printed in the supplied editions. The PDFs are partial and have no Hindi section. Explanations and answer letters come from the PDFs. Records requiring review retain their printed answer letter in the note and are unscored. Historical law and case questions should be read in their exam context.",
+  "questions": [
+    {
+      "id": "rjs-2015-001",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 1,
+      "subject": "Rajasthan Agricultural Credit",
+      "question": "Under the provisions of the Rajasthan Agricultural Credit Operations (Removal of difficulties) Act, 1974, a Bank can recover its dues from any agriculturist or his heir or legal representative or his guarantor on account of financial assistance availed of by the agriculturist by making an application to:",
+      "options": [
+        "District Judge",
+        "High Court",
+        "Prescribed Authority",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under the Rajasthan Agricultural Credit Operations (Removal of Difficulties) Act, 1974, a Bank recovers its dues by applying to the Prescribed Authority, which then certifies the amount for recovery as arrears of land revenue.",
+      "reference": "Rajasthan Agricultural Credit Operations (Removal of Difficulties) Act, 1974",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-002",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 2,
+      "subject": "Rajasthan Court Fees",
+      "question": "Under Section 35 of the Rajasthan court Fees and suits valuation Act, 1961, in a suit for partition and separate possession of a share in joint family property by a plaintiff, who has been excluded from possession of such property, court fee shall be:-",
+      "options": [
+        "paid at fixed rate",
+        "computed on the market value of the plaintiff's share of the property",
+        "at the discretion of the plaintiff",
+        "based on written statement of the defendant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 35 of the Rajasthan Court Fees and Suits Valuation Act, 1961, provides that where a plaintiff excluded from possession sues for partition and separate possession of his share of joint family property, court fee is computed on the market value of the plaintiff's share.",
+      "reference": "Rajasthan Court Fees and Suits Valuation Act, 1961, Section 35",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-003",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 3,
+      "subject": "Rajasthan Stamp Act",
+      "question": "Under the Rajasthan Stamp Act, 1998, in case of a release-deed, in the absence of an agreement to the contrary, the expense of providing the proper stamp shall be borne by:",
+      "options": [
+        "the beneficiary",
+        "the person drawing, making or executing the release-deed",
+        "by both the parties in equal shares",
+        "none of the above"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mirroring Section 29 of the Indian Stamp Act, under the Rajasthan Stamp Act, 1998, in the case of a release-deed, absent contrary agreement, the duty/expense of providing the proper stamp is borne by the person drawing, making or executing the instrument.",
+      "reference": "Rajasthan Stamp Act, 1998 (see provision governing who bears stamp duty)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-004",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 4,
+      "subject": "Rajasthan Stamp Act",
+      "question": "If an instrument has not been duly stamped and where such an instrument has been admitted in evidence, such admission:",
+      "options": [
+        "can be called in question at any stage of the same suit or proceeding",
+        "not be called in question at any stage of the same suit or proceeding except as provided for by Section 71 of the Rajasthan Stamp Act, 1998",
+        "at the discretion of the opposite party can be called in question",
+        "none of the above"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Like Section 36 of the Indian Stamp Act, once an instrument has been admitted in evidence, such admission cannot be called in question at any stage of the same suit or proceeding except as provided (here, Section 71 of the Rajasthan Stamp Act, 1998).",
+      "reference": "Rajasthan Stamp Act, 1998 (admission of instruments), read with Section 71",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-005",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 5,
+      "subject": "Registration",
+      "question": "Under the Registration Act, 1908 a will can be presented for registration before the Registrar or Sub Registrar by:",
+      "options": [
+        "the testator",
+        "after death of testator, any person claiming as executor or otherwise under a will",
+        "both (a) and (b)",
+        "none of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under Section 40 of the Registration Act, 1908, a will may be presented for registration by the testator himself, or after his death by any person claiming as executor or otherwise under the will; hence both (a) and (b).",
+      "reference": "Registration Act, 1908, Section 40",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-006",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 6,
+      "subject": "Contract Law",
+      "question": "Two parties entered into a contract. They later realised that the law as they understood as applicable was not in force in India. This makes their contract:",
+      "options": [
+        "illegal",
+        "void",
+        "voidable",
+        "none of the above"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An agreement made under a mutual mistake as to a matter of fact essential to the agreement is void under Section 20 of the Indian Contract Act, 1872; a mistaken belief about a law not in force in India is treated as a mistake of fact, rendering the contract void.",
+      "reference": "Indian Contract Act, 1872, Sections 20 and 21",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-007",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 7,
+      "subject": "Limitation",
+      "question": "Acknowledgement after the expiration of the period prescribed under the Indian Limitation Act, 1963, for a suit or application:",
+      "options": [
+        "is of no effect",
+        "gives rise to an independent & enforceable contract",
+        "is of great value",
+        "none of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "A promise to pay a time-barred debt is enforceable; an acknowledgement/promise after expiry of the limitation period gives rise to an independent and enforceable contract (cf. Section 25(3) Contract Act). Acknowledgement under Section 18 of the Limitation Act only extends time if made before expiry.",
+      "reference": "Limitation Act, 1963, Section 18; Indian Contract Act, 1872, Section 25(3)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "needs-review",
+      "note": "The explanation conflates an acknowledgment with a signed promise to pay a time-barred debt. PDF answer key: B."
+    },
+    {
+      "id": "rjs-2015-008",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 8,
+      "subject": "Rajasthan Rent Control",
+      "question": "Time limit for disposal of a petition filed under Section 9 of Rajasthan Rent Control Act, 2001 is:-",
+      "options": [
+        "the period of two hundred and forty days from the date of service of notice on the tenant",
+        "within the period of twelve months from the date of service of notice on the tenant",
+        "within the period of six months from the date of service of notice on the tenant",
+        "no limitation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A petition under the Rajasthan Rent Control Act, 2001 is to be disposed of within two hundred and forty (240) days from the date of service of notice on the tenant.",
+      "reference": "Rajasthan Rent Control Act, 2001, Sections 9 and 15",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-009",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 9,
+      "subject": "Partnership",
+      "question": "Subject to contract between the partners, a firm is dissolved:",
+      "options": [
+        "if constituted for a fixed term, by the expiry of that term",
+        "if constituted to carry out one or more adventures or undertakings, by the completion thereof",
+        "by the death of a partner",
+        "all the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Under Section 42 of the Indian Partnership Act, 1932 (subject to contract between partners), a firm is dissolved by expiry of a fixed term, by completion of the adventures/undertakings, and by the death of a partner; hence all the above.",
+      "reference": "Indian Partnership Act, 1932, Section 42",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-010",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 10,
+      "subject": "Contract Law",
+      "question": "Finder of lost goods under Indian contract Act, 1872 is a:",
+      "options": [
+        "bailor",
+        "surety",
+        "bailee",
+        "none of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under Section 71 of the Indian Contract Act, 1872, the finder of lost goods is in the position of a bailee, with the responsibilities of a bailee.",
+      "reference": "Indian Contract Act, 1872, Section 71",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-011",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 11,
+      "subject": "Rajasthan Right to Hearing",
+      "question": "Under Rajasthan Right to Hearing Act, 2012, a complaint can be filed regarding grievance relating to:",
+      "options": [
+        "the service matters of a public servant",
+        "any matter in which any Court or Tribunal has jurisdiction",
+        "any matter under Right to Information Act, 2005",
+        "none of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Rajasthan Right to Hearing Act, 2012 expressly excludes service matters of public servants, matters within the jurisdiction of any court/tribunal, and RTI matters; therefore none of (a)-(c) is a maintainable grievance.",
+      "reference": "Rajasthan Right to Hearing Act, 2012",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-012",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 12,
+      "subject": "Constitutional Law",
+      "question": "In which of the following cases has the Supreme Court ruled that the members of the Transgender Community who are neither male nor female, at the time of birth, are recognized as 'Third Gender' for the purpose of safeguarding and enforcing appropriately their fundamental and other legal, social and economic rights guaranteed under the constitution?",
+      "options": [
+        "Rambilas singh vs. State of Bihar - AIR 1989 SC 1593",
+        "Lily Thomas Vs. Union of India - (2013) 7 SCC 653",
+        "National Legal Services Authority vs. Union of India - (2014) 5 SCC 438",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "National Legal Services Authority v. Union of India, (2014) 5 SCC 438 (NALSA), is the case in which the Supreme Court recognised transgender persons as a 'third gender' and protected their constitutional rights.",
+      "reference": "National Legal Services Authority v. Union of India, (2014) 5 SCC 438",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-013",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 13,
+      "subject": "Constitutional Law",
+      "question": "Article 21-A providing for Right to Education was inserted in the constitution by:",
+      "options": [
+        "the Constitution (Eighty Sixth Amendment) Act, 2002",
+        "the Constitution (Ninety First Amendment) Act, 2003",
+        "the Constitution (Ninety Second Amendment) Act, 2003",
+        "the constitution (Eighty Fourth Amendment) Act, 2001"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Article 21-A (Right to Education) was inserted by the Constitution (Eighty-Sixth Amendment) Act, 2002.",
+      "reference": "Constitution of India, Article 21-A",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-014",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 14,
+      "subject": "Civil Procedure",
+      "question": "Which of the following is the correct statement in so far as Section 20 of the Code of civil Procedure, 1908, is concerned?",
+      "options": [
+        "The suit has to be instituted in the court of the lowest grade competent to try it",
+        "The suit has to be instituted in the court within the local limits of whose jurisdiction the defendant actually and voluntarily resides or carries on business or personally works for gain",
+        "The suit has to be instituted in the court within the local limits of whose jurisdiction, the cause of action wholly or in part arises",
+        "All the above are correct"
+      ],
+      "correctAnswer": null,
+      "explanation": "Section 20 CPC permits suit where the defendant resides/carries on business (option b) or where the cause of action wholly or in part arises (option c); the 'lowest grade competent' rule is Section 15. Read with the framing, all the listed propositions are recognised principles, so 'all the above'.",
+      "reference": "Code of Civil Procedure, 1908, Sections 15 and 20",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "needs-review",
+      "note": "The keyed all-of-the-above answer includes a proposition the solution attributes to Section 15, while the question asks about Section 20. PDF answer key: D."
+    },
+    {
+      "id": "rjs-2015-015",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 15,
+      "subject": "Civil Procedure",
+      "question": "In which of the following cases, did the Supreme Court uphold the validity of the code of civil Procedure Amendment Acts of 1999 and 2002?",
+      "options": [
+        "Delhi H.C. Bar Association Vs. UOI",
+        "Allahabad H.C. Bar Association Vs. VOI",
+        "Salem Advocate Bar Association Vs. UOI",
+        "P & H H.C. Bar Association Vs. UOI"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In Salem Advocate Bar Association v. Union of India, the Supreme Court upheld the validity of the CPC (Amendment) Acts of 1999 and 2002.",
+      "reference": "Salem Advocate Bar Association v. Union of India (CPC amendments)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-016",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 16,
+      "subject": "Civil Procedure",
+      "question": "An Appeal under Order XLIII of Code of Civil Procedure shall lie from which of the following orders:",
+      "options": [
+        "Rule-11 of Order VII, rejecting the plaint",
+        "Rule-9 of order XXII, refusing to set aside the abatement or dismissal of suit",
+        "Rule-1 of order VIII, not permitting the defendant to present the written statement",
+        "Rule-5 of Order XIV, refusing to strike out the issue at the instance of either of the parties"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Order XLIII Rule 1 CPC lists appealable orders, including an order under Order XXII Rule 9 refusing to set aside an abatement or dismissal of a suit. Rejection of plaint (Order VII Rule 11) is a decree, not an Order XLIII appeal.",
+      "reference": "Code of Civil Procedure, 1908, Order XLIII Rule 1, Order XXII Rule 9, Order VII Rule 11",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-017",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 17,
+      "subject": "Easements",
+      "question": "Statement 'A' - where the access and use of light or air to and for any building have been peaceably enjoyed therewith, as an easement, without interruption, and for twenty years, the right to such access and use of light or air shall be absolute. Statement 'B' - A right to the free passage of light or air to an open space of ground, cannot be acquired by prescription.",
+      "options": [
+        "'A' is correct",
+        "statement 'B' is correct",
+        "Both statements are correct",
+        "Both statements are incorrect"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Both statements are correct: Section 25 of the Indian Easements Act, 1882 grants an absolute right to light/air enjoyed peaceably for 20 years (Statement A), while the Explanation/settled law denies prescriptive right to free passage of light or air to an open space of ground (Statement B).",
+      "reference": "Indian Easements Act, 1882, Section 25",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-018",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 18,
+      "subject": "Specific Relief",
+      "question": "Which of the following statements is correct?",
+      "options": [
+        "In a suit for specific performance of a contract for transfer of immovable property, the court cannot grant partition and separate possession of the property",
+        "In a suit for specific performance of a contract for transfer of immovable property, the plaintiff cannot alternatively ask for the refund of earnest money or deposit made by him",
+        "The court while refusing to grant specific performance of the contract, cannot grant refund of earnest money paid by the plaintiff, unless it has been specifically claimed",
+        "All the above are correct"
+      ],
+      "correctAnswer": null,
+      "explanation": "In a suit for specific performance of a contract to transfer immovable property, the court cannot grant partition and separate possession of the property; (b) and (c) are wrong because a plaintiff may alternatively claim, and the court may grant, refund of earnest money/deposit (Sections 21-22 Specific Relief Act).",
+      "reference": "Specific Relief Act, 1963, Sections 21 and 22",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "needs-review",
+      "note": "The keyed restriction on partition and separate possession needs checking against Section 22 and the actual choices. PDF answer key: A."
+    },
+    {
+      "id": "rjs-2015-019",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 19,
+      "subject": "Registration",
+      "question": "Which of the following documents is not required to be compulsorily registered ?",
+      "options": [
+        "Instruments creating or declaring right, title or interest to or in immovable property of rupees one hundred and upwards",
+        "wills in respect of immovable property",
+        "Leases of immovable property for a term exceeding one year",
+        "Instruments transferring any decree of a court when such decree purports to create right in immovable property of rupees one hundred and upwards"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under Section 17 of the Registration Act, 1908, wills are expressly exempt from compulsory registration (their registration is optional under Section 18); the instruments in (a), (c) and (d) are compulsorily registrable.",
+      "reference": "Registration Act, 1908, Section 17, Section 18",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-020",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 20,
+      "subject": "Property Law",
+      "question": "In which of the following mortgages, the mortgagor is required to deliver possession of the mortgaged property to the mortgagee?",
+      "options": [
+        "English mortgage",
+        "Mortgage by conditional sale",
+        "Usufructuary mortgage",
+        "Anomalous mortgage"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In a usufructuary mortgage (Section 58(d) of the Transfer of Property Act, 1882), the mortgagor delivers possession of the mortgaged property to the mortgagee, who retains possession and receives rents/profits in lieu of interest/principal.",
+      "reference": "Transfer of Property Act, 1882, Section 58(d)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-021",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 21,
+      "subject": "Property Law",
+      "question": "Statement 'A' - Every transfer of immovable property made with intent to defeat or delay the creditors of the transferor is void. Statement 'B' - Every transfer of immovable property made without consideration with intent to defraud a subsequent transferee is void.",
+      "options": [
+        "statement 'A' is correct",
+        "Statement 'B' is correct",
+        "Both statements are correct",
+        "Both statements are incorrect"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Both statements are incorrect: under Section 53 of the Transfer of Property Act, 1882, such transfers (to defeat/delay creditors, or without consideration to defraud a subsequent transferee) are voidable at the option of the person defeated/defrauded, not void.",
+      "reference": "Transfer of Property Act, 1882, Section 53",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-022",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 22,
+      "subject": "Arbitration",
+      "question": "Which of the following statements is correct, so far as Section 9 of the Arbitration and Conciliation Act, 1996 is concerned?",
+      "options": [
+        "A party may apply to the court for interim measures during the pendency of the arbitration proceedings only",
+        "A party may apply to the court seeking appointment of receiver by way of interim measures even after the making of the arbitral award by the Arbitral Tribunal",
+        "A party cannot apply for interim measures before the commencement of arbitral proceedings",
+        "All the above are correct"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under Section 9 of the Arbitration and Conciliation Act, 1996, a party may seek interim measures (e.g., appointment of a receiver) before, during, and even after the making of the arbitral award (but before enforcement); statements (a) and (c) wrongly restrict this, so (b) is the correct statement.",
+      "reference": "Arbitration and Conciliation Act, 1996, Section 9",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-023",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 23,
+      "subject": "Limitation",
+      "question": "The period of three years is prescribed under Article 137 of the Limitation Act, 1963, in case where no other period of Limitation is provided for filing any:-",
+      "options": [
+        "suit",
+        "Appeal",
+        "Application",
+        "Proceeding"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 137 of the Limitation Act, 1963 is the residuary article prescribing three years for any application for which no period of limitation is provided elsewhere in the Schedule.",
+      "reference": "Limitation Act, 1963, Article 137",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-024",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 24,
+      "subject": "Limitation",
+      "question": "Statement 'A' - In computing the period of limitation for any appeal, the day from which such period is to be reckoned, shall be included. Statement 'B' - In computing period of Limitation for any appeal, the day on which the judgement complained of was pronounced and the time requisite for obtaining the copy of the decree shall be excluded.",
+      "options": [
+        "statement 'A' is correct",
+        "statement 'B' is correct",
+        "Both are correct",
+        "Both are incorrect"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Statement B is correct: under Sections 12(1) and 12(2) of the Limitation Act, 1963, in computing limitation for an appeal, the day of pronouncement of the judgment and the time requisite for obtaining the copy of the decree are excluded; Statement A is wrong because that day is excluded, not included.",
+      "reference": "Limitation Act, 1963, Sections 12(1)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-025",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 25,
+      "subject": "Legal Services Authorities Act",
+      "question": "Which of the following is correct as per Section 22-c of the Legal Services Authority Act, 1987?",
+      "options": [
+        "Any party to a dispute may, after the dispute is brought before any court, make an application to the Permanent Lok Adalat for the settlement of dispute",
+        "The Permanent Lok Adalat shall not have the jurisdiction in respect of any matter relating to an offence not compoundable under any law",
+        "The Permanent Lok Adalat shall have the jurisdiction only in such matter where the value of the property in dispute is more than ten lakh rupees",
+        "All the above are correct"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under Section 22-C of the Legal Services Authorities Act, 1987, the Permanent Lok Adalat has no jurisdiction over any matter relating to an offence not compoundable under any law. Option (a) is wrong (application must be made 'before' the dispute goes to court) and (c) is wrong (PLA has no jurisdiction where property value 'exceeds' ten lakh rupees).",
+      "reference": "Legal Services Authorities Act, 1987, Section 22-C",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-026",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 26,
+      "subject": "Hindu Law",
+      "question": "Under Section 11 of the Hindu Marriage Act, 1955, the marriage may be declared null and void if:",
+      "options": [
+        "the parties are within the degrees of prohibited relationship",
+        "at the time of the marriage, one of the parties was incapable of giving a valid consent to it in consequence of unsoundness of mind",
+        "at the time of the marriage, one of the parties was subject to recurrent attacks of insanity",
+        "in all the above circumstances"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Section 11 HMA, 1955 makes a marriage null and void only for breach of Section 5 clauses (i) bigamy, (iv) prohibited degrees and (v) sapinda. Of the listed options, parties within prohibited degrees (a) is a void ground; unsoundness of mind and recurrent insanity (b, c) are voidable grounds under Section 12(1)(b), so (a) is correct.",
+      "reference": "Hindu Marriage Act, 1955, Sections 5, 11 and 12",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-027",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 27,
+      "subject": "Hindu Law",
+      "question": "After the Hindu succession (Amendment) Act, 2005, the daughter of a coparcener in a Joint Hindu family governed by the Mitakshara law:",
+      "options": [
+        "shall have no right in the coparcenary property",
+        "cannot become a coparcener by birth",
+        "shall become a coparcener by birth in her own right in the same manner as the son",
+        "shall be entitled to dispose of the entire coparcenary property"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Section 6 of the Hindu Succession Act as amended by the 2005 Amendment makes the daughter of a coparcener a coparcener by birth in her own right in the same manner as the son.",
+      "reference": "Hindu Succession Act, 1956, Section 6 (2005 amendment)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-028",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 28,
+      "subject": "Hindu Law",
+      "question": "Which of the following is incorrect?",
+      "options": [
+        "The husband is the natural guardian of a Hindu married girl",
+        "After the adoption of Hindu minor son, his father continues to remain his natural guardian till he attains majority",
+        "The natural guardian of a Hindu minor child is the father, and after him the mother, but custody of minor up to the age of five years shall ordinarily be with the mother",
+        "The natural guardian of an illegitimate Hindu minor boy is the mother, and after her, the father"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under the Hindu Minority and Guardianship Act, 1956, on adoption of a Hindu minor the natural guardianship vests in the adoptive parents; the natural father does NOT continue as natural guardian. Hence statement (b) is incorrect. (Statements (a), (c) and (d) correctly state Section 6.)",
+      "reference": "Hindu Minority and Guardianship Act, 1956, Sections 6 and 7",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-029",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 29,
+      "subject": "Hindu Law",
+      "question": "A Hindu wife is entitled to claim maintenance after the death of her husband from her father-in-law under:",
+      "options": [
+        "Section 25 of the Hindu Marriage Act, 1955",
+        "Section 24 of the Hindu Marriage Act, 1955",
+        "Section 19 of the Hindu Adoptions and Maintenance Act, 1956",
+        "Section 10 of the Hindu Succession Act, 1956"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Section 19 of the Hindu Adoptions and Maintenance Act, 1956 entitles a Hindu widow to be maintained, after her husband's death, by her father-in-law (out of coparcenary property/estate).",
+      "reference": "Hindu Adoptions and Maintenance Act, 1956, Section 19",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-030",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 30,
+      "subject": "Domestic Violence Act",
+      "question": "As per section 2(q) of the Protection of women from Domestic violence Act, 2005, \"respondent\" means and includes:",
+      "options": [
+        "any person, who is in a domestic relationship with the aggrieved person and against whom the aggrieved person has sought relief under the Act",
+        "male partner when aggrieved female is living in a relationship with him in the nature of a marriage",
+        "the female relatives of the husband of the aggrieved wife, seeking their removal from the shared household",
+        "none of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "Section 2(q) of the PWDV Act, 2005 defines 'respondent' as any adult person who is, or has been, in a domestic relationship with the aggrieved person and against whom relief is sought under the Act.",
+      "reference": "Protection of Women from Domestic Violence Act, 2005, Section 2(q)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "needs-review",
+      "note": "The option and explanation differ on the wording of the historical definition. PDF answer key: A."
+    },
+    {
+      "id": "rjs-2015-031",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 31,
+      "subject": "Rajasthan Rent Control",
+      "question": "As per section 3 of the Rajasthan Rent control Act, 2001, the chapter II and III thereof do not apply to:",
+      "options": [
+        "the premises, let out after the commencement of the Act for a period of two years through a registered deed",
+        "the premises, let out to the multinational company having paid up share capital of less than rupees one crore",
+        "the premises, let out for residential purposes, the monthly rent whereof is rupees four thousand in case of the premises situated in the Municipal area of Jaipur city",
+        "the premises belonging to the Government company as defined under the Companies Act, 1956"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Section 3 of the Rajasthan Rent Control Act, 2001 exempts (inter alia) premises belonging to the Government and to a Government company as defined under the Companies Act, 1956 from the application of Chapters II and III.",
+      "reference": "Rajasthan Rent Control Act, 2001, Section 3",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-032",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 32,
+      "subject": "Rajasthan Tenancy",
+      "question": "Which of the following statements is not correct, so far as Section 242 of the Rajasthan Tenancy Act, 1955 is concerned?",
+      "options": [
+        "civil court can frame the issue with regard to the tenancy rights in agricultural land and submit the record to the appropriate revenue court for the decision on that issue only",
+        "civil court may or may not accept the finding of revenue court on the issue referred to it",
+        "The finding of the revenue court on the issue referred to it, shall be deemed to be part of the finding of civil court for the purposes of Appeal",
+        "civil court cannot decide the issue which was referred to the revenue cour"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under Section 242 of the Rajasthan Tenancy Act, 1955, the civil court refers the tenancy issue to the revenue court and is bound by that finding; it is not free to accept or reject it. Hence statement (b) is the one that is NOT correct.",
+      "reference": "Rajasthan Tenancy Act, 1955, Section 242",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-033",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 33,
+      "subject": "Rajasthan Land Revenue",
+      "question": "Which of the following is not the judicial matter under Section 23 read with the First schedule to the Rajasthan Land Revenue Act, 1956?",
+      "options": [
+        "Regularisation of unauthorised occupation",
+        "A dispute with respect to the right of grazing cattle on pasture land",
+        "Settlement of boundary disputes",
+        "Mutation upon succession"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Under Section 23 read with the First Schedule of the Rajasthan Land Revenue Act, 1956, 'judicial matters' are adjudicatory proceedings (boundary disputes, grazing-right disputes, regularisation). Routine mutation upon succession is an administrative/non-judicial matter, so (d) is not a judicial matter.",
+      "reference": "Rajasthan Land Revenue Act, 1956, Section 23",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-034",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 34,
+      "subject": "Rajasthan General Rules (Civil)",
+      "question": "The General Rules (Civil), 1986 have been framed:",
+      "options": [
+        "by the Rajasthan High Court under Article 227 of the constitution of India",
+        "by the Governor under Article 166 of the Constitution of India",
+        "by the Chief Justice under Article 229 of the Constitution of India.",
+        "by the State Government under Article 309 of the Constitution of India"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The General Rules (Civil), 1986 are framed by the Rajasthan High Court in exercise of its power of superintendence over subordinate courts under Article 227 of the Constitution.",
+      "reference": "Rajasthan General Rules (Civil), 1986; Constitution of India, Article 227",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-035",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 35,
+      "subject": "Muslim Law",
+      "question": "Which of the followings is not an essential ingredient of gift under the Mohammedan law :",
+      "options": [
+        "a declaration of gift by the donor",
+        "acceptance of gift, expressed or implied, by or on behalf of donee",
+        "delivery of possession of the subject gift by the donor to the donee",
+        "a written deed of gift"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Under Mohammedan law the three essentials of a valid hiba (gift) are declaration, acceptance and delivery of possession. A written/registered deed is NOT essential, so (d) is the non-essential.",
+      "reference": "Muslim law of hiba",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-036",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 36,
+      "subject": "Criminal Procedure",
+      "question": "Which of the following is correct statement of law as per sections 82 and 83 of the Code of Criminal Procedure 1973?",
+      "options": [
+        "The court may order attachment of property belonging to an accused before declaring him a proclaimed person under Section 82",
+        "The court may order attachment of property of a person after publication of a written proclamation under Section 82 requiring him to appear before it",
+        "The court may order attachment of property of a person regardless of whether or not he has been declared proclaimed offender",
+        "None of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "Under Sections 82-83 CrPC, attachment of property under Section 83 may be ordered only after publication of the written proclamation under Section 82 requiring the person to appear.",
+      "reference": "Code of Criminal Procedure, 1973, Sections 82-83, Section 83, Section 82",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "needs-review",
+      "note": "Check the answer against the proviso governing simultaneous attachment under Section 83. PDF answer key: B."
+    },
+    {
+      "id": "rjs-2015-037",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 37,
+      "subject": "Criminal Procedure",
+      "question": "Which of the following irregularities of a Magistrate, not empowered by law to do so, vitiates the proceedings?",
+      "options": [
+        "To hold inquiry under Section 176 code of criminal procedure",
+        "To make over a case under Sub-Section (2) of Section 192 code of criminal procedure",
+        "To take cognizance of an offence under clause (c) of subsection (1) of Section 190 of the code of criminal procedure",
+        "To tender pardon to accomplice under Section 306 of the code of criminal procedure"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under Section 461(k) CrPC, taking cognizance of an offence under clause (c) of Section 190(1) by a Magistrate not empowered to do so vitiates the proceedings; the others (inquiry u/s 176, making over u/s 192(2), tender of pardon u/s 306) are curable under Section 460.",
+      "reference": "Code of Criminal Procedure, 1973, Section 461(k), Section 190(1), Section 460",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-038",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 38,
+      "subject": "Criminal Procedure",
+      "question": "Which of the following irregularities of a Magistrate not empowered by Taw to do so, does not vitiate the proceedings:",
+      "options": [
+        "calling of record to exercise powers of revision under Section 397 of Code of Criminal Procedure",
+        "taking cognizance of an offence under clause (a) or clause (b) of sub-section (1) of Section 190 of Code of Criminal Procedure",
+        "decision of an appeal",
+        "revision of an order passed under section 466 of Code of Criminal Procedure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under Section 460(e) CrPC, taking cognizance under clause (a) or (b) of Section 190(1) by a Magistrate not empowered, if done in good faith, does NOT vitiate the proceedings. Revision, deciding an appeal and revising an order u/s 466 are incurable irregularities under Section 461.",
+      "reference": "Code of Criminal Procedure, 1973, Section 460(e), Section 190(1), Section 461",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-039",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 39,
+      "subject": "Criminal Procedure",
+      "question": "Which of the following offences is cognizable, non-bailable and non compoundable:",
+      "options": [
+        "voluntarily causing grievous hurt, punishable under Section 325 IPC",
+        "attempt to murder punishable under Section 307 IPC",
+        "voluntarily causing hurt to extort confession, or to compel restoration of property, punishable under Section 330 IPC",
+        "voluntarily causing grievous hurt on provocation punishable under Section 335 IPC"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Attempt to murder under Section 307 IPC is cognizable, non-bailable and non-compoundable. Section 325 (s.323-compoundable category) and 335 are compoundable; the others do not meet all three conditions as cleanly as 307.",
+      "reference": "Indian Penal Code, Section 307; CrPC, First Schedule and Section 320",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-040",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 40,
+      "subject": "Indian Penal Code",
+      "question": "Which of the following provisions of the Indian Penal Code defines culpable homicide",
+      "options": [
+        "Section 302",
+        "Section 300",
+        "Section 301",
+        "Section 299"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Section 299 IPC defines culpable homicide; Section 300 defines murder, and Sections 301/302 deal with consequences/punishment.",
+      "reference": "Indian Penal Code, 1860, Section 299, Section 300, Sections 301",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-041",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 41,
+      "subject": "Criminal Procedure",
+      "question": "Statement of an accused can be recorded on oath:",
+      "options": [
+        "is not a correct statement of law",
+        "under Section 315 code of criminal procedure",
+        "under Section 313 code of criminal procedure",
+        "under Section 391 code of criminal procedure"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Under Section 313(2) CrPC no oath is administered to the accused when examined; and as a witness u/s 315 the accused gives evidence on oath only on his own request in defence - there is no general rule that an accused's statement is recorded on oath, so (a) 'is not a correct statement of law' is correct.",
+      "reference": "Code of Criminal Procedure, 1973, Section 313(2)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-042",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 42,
+      "subject": "Evidence",
+      "question": "Which of the following is the correct statement according to law?",
+      "options": [
+        "An accomplice shall be competent witness against an accused person",
+        "Leading question may be asked in cross-examination of a witness",
+        "The court may permit a party, who, calls a witness, to put any question to him, which might be put in cross examination by the adverse party",
+        "All the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "All are correct: an accomplice is a competent witness (Section 133 Evidence Act); leading questions are permitted in cross-examination (Section 143); and the court may permit a party to put cross-examination-type questions to its own witness (Section 154, hostile witness).",
+      "reference": "Indian Evidence Act, 1872, Section 133, Section 143, Section 154",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-043",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 43,
+      "subject": "Evidence",
+      "question": "Burden of proof under Section 101 of the Indian Evidence Act, 1872:",
+      "options": [
+        "goes on shifting as the trial proceeds",
+        "never shifts",
+        "may shift",
+        "both (a) and (c) are correct"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 101 of the Evidence Act lays down the burden of proof on the party who asserts; this legal/persuasive burden never shifts (it is the onus of proof under s.102 that shifts).",
+      "reference": "Indian Evidence Act, 1872, Section 101, s.102",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-044",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 44,
+      "subject": "Criminal Procedure",
+      "question": "Proceedings under section 145 of the code of criminal Procedure are initiated by the Executive Magistrate on the report of which of the following?",
+      "options": [
+        "Judicial Magistrate",
+        "Police officer",
+        "Revenue officer",
+        "Complainant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Proceedings under Section 145 CrPC are initiated by the Executive Magistrate on being satisfied from a police officer's report or other information of a dispute likely to cause breach of peace.",
+      "reference": "Code of Criminal Procedure, 1973, Section 145",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-045",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 45,
+      "subject": "Negotiable Instruments",
+      "question": "In which of the following judgments has the Supreme Court held that only those courts within whose territorial limits the drawee bank is situated, would have jurisdiction to try the cases for offence under Section 138 of the Negotiable Instruments Act, 1881?",
+      "options": [
+        "K. Bhaskaran vs. Sankaran vaidhyan Balan and Another - (1999) 7 SCC 510",
+        "Dashrath Rupsingh Rathod vs. State of Maharashtra and Another - (2014) 9 SCC 129",
+        "state of Bihar and others vs. Kalyan pur cement Limited - (2010) 3 SCC 274",
+        "None of the above"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In Dashrath Rupsingh Rathod v. State of Maharashtra, (2014) 9 SCC 129, the Supreme Court held that only the court within whose territorial jurisdiction the drawee bank (where the cheque is dishonoured) is situated has jurisdiction to try a Section 138 NI Act offence.",
+      "reference": "Dashrath Rupsingh Rathod v. State of Maharashtra, (2014) 9 SCC 129; NI Act, Sections 138 and 142",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": "Historical case-law question. The 2015 amendments changed the statutory framework for territorial jurisdiction."
+    },
+    {
+      "id": "rjs-2015-046",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 46,
+      "subject": "Negotiable Instruments",
+      "question": "Which of the following is a correct statement of law as per Sections 138 and 142 of the Negotiable Instruments Act, 1881?",
+      "options": [
+        "A cheque is to be presented to the bank within a period of six months from the date it is drawn or within the period of its validity, whichever is earlier",
+        "Notice within thirty days of receipt of information from the bank regarding return of cheque as unpaid, has to be served upon drawer, demanding payment of amount of money",
+        "on failure of drawer of such cheque to make payment within fifteen days of receipt of such notice, the payee or holder of cheque has to file complaint within one month thereof",
+        "All the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "All three statements correctly reflect Sections 138 and 142 NI Act (as in force in 2015): presentation within six months/validity, notice within 30 days of return, and complaint within one month of expiry of the 15-day payment period.",
+      "reference": "Negotiable Instruments Act, 1881, Sections 138",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-047",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 47,
+      "subject": "Negotiable Instruments",
+      "question": "The delay in filing a complaint under Section 138 of the Negotiable Instruments Act, 1881, can be condoned:",
+      "options": [
+        "under Section 5 of the Indian Limitation Act, 1963",
+        "under Section 138 of the Negotiable Instruments Act, 1881",
+        "under Section 142 of the Negotiable Instruments Act, 1881",
+        "under Section 143 of the Negotiable Instruments Act, 1881"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The proviso to Section 142(b) NI Act (added in 2002) empowers the court to condone delay in filing a Section 138 complaint if sufficient cause is shown; condonation is thus under Section 142, not Section 5 of the Limitation Act.",
+      "reference": "Negotiable Instruments Act, 1881, Section 142(b), Section 138, Section 142",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-048",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 48,
+      "subject": "Information Technology Act",
+      "question": "In which of the following judgments has the Supreme Court struck down Section 66-A of t",
+      "options": [
+        "Shreya singhal vs. Union of India - AIR 2015 SC 1523",
+        "Selvi and others Vs. State of Karnataka - (2010) 7 SCC 263",
+        "PUCL Vs. Union of India - (1997) 1 SCC 301",
+        "Amar singh vs. Union of India - (2011) 7 SCC 67"
+      ],
+      "correctAnswer": null,
+      "explanation": "Section 66-A of the IT Act, 2000 was struck down as unconstitutional in Shreya Singhal v. Union of India, AIR 2015 SC 1523 / (2015) 5 SCC 1.",
+      "reference": "Shreya Singhal v. Union of India, (2015) 5 SCC 1; IT Act, Section 66A",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "needs-review",
+      "note": "The stem ends mid-phrase in the PDF. PDF answer key: A."
+    },
+    {
+      "id": "rjs-2015-049",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 49,
+      "subject": "POCSO",
+      "question": "According to Section 25 of the Protection of children from Sexual offences Act, 2012, statement of a child under Section 164 of the code of Criminal Procedure to be recorded by the Magistrate:-",
+      "options": [
+        "shall be recorded in presence of the advocate of the accused",
+        "shall not be recorded in presence of the advocate of the accused",
+        "shall be recorded in presence of the Investigating Officer",
+        "Shall be recorded in presence of woman Police officer"
+      ],
+      "correctAnswer": null,
+      "explanation": "Section 25 POCSO Act, 2012 requires the Magistrate recording the child's statement under Section 164 CrPC to do so as far as practicable in the presence of the parents/person trusted by the child, and it shall not be recorded in the presence of the accused's advocate.",
+      "reference": "POCSO Act, Sections 25 and 26; CrPC, Section 164",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "needs-review",
+      "note": "The supplied explanation mixes provisions on statements before a Magistrate and additional safeguards. PDF answer key: B."
+    },
+    {
+      "id": "rjs-2015-050",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 50,
+      "subject": "Probation of Offenders",
+      "question": "Which of the following is not the duty of a Probation officer?",
+      "options": [
+        "To supervise probationers placed under his supervision and where necessary, endeavour to find them suitable employment",
+        "To advise and assist offenders in payment of compensation or costs ordered by the court",
+        "To inquire into the circumstances or home surroundings of any person accused of an offence",
+        "To arrange for lodging and boarding of the probationers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The duties of a probation officer (Section 14, Probation of Offenders Act, 1958) include inquiry into circumstances, supervision and assistance with employment, and advising on compensation/costs. Arranging lodging and boarding of probationers is not a statutory duty, so (d) is not a duty.",
+      "reference": "Probation of Offenders Act, 1958, Section 14",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-051",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 51,
+      "subject": "POCSO",
+      "question": "Which of following conditions, as per provisions of the Protection of Children from Sexual offences Act, 2012, has to be adhered to while examining or recording statement of the child:",
+      "options": [
+        "the statement of child shall be recorded at the residence of child or the place where he usually resides or the place of his choice",
+        "as far as practicable the statement should be recorded by woman police officer not below the rank of Sub Inspector, who shall not be in uniform",
+        "the Investigating officer shall ensure that at no point of time the child comes in contact in any way with the accused",
+        "all the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sections 24 & 26 POCSO Act, 2012 require all these safeguards: statement at child's residence/place of choice, recording by a woman SI not in uniform as far as practicable, and ensuring no contact with the accused. Hence 'all the above'.",
+      "reference": "Protection of Children from Sexual Offences Act, 2012, Sections 24",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-052",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 52,
+      "subject": "Information Technology Act",
+      "question": "A private key and its mathematically related public key, which are so related that the public key, can verify a digital signature created by the private key. in an Asymmetric crypto system means:-",
+      "options": [
+        "Key pair",
+        "Both keys",
+        "Soft keys",
+        "soft pair"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Section 2(1)(x) of the Information Technology Act, 2000 defines 'key pair' in an asymmetric crypto system as a private key and its mathematically related public key that can verify a digital signature created by the private key.",
+      "reference": "Information Technology Act, 2000, Section 2(1)(x)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-053",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 53,
+      "subject": "Information Technology Act",
+      "question": "A person, who sends, generates, stores or transmits any electronic message; or causes any electronic message to be sent, generated, stored or transmitted to any other person, is called:",
+      "options": [
+        "Sender",
+        "originator",
+        "Generator",
+        "Intermediary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 2(1)(za) of the Information Technology Act, 2000 defines 'originator' as a person who sends, generates, stores or transmits any electronic message (or causes it), excluding an intermediary.",
+      "reference": "Information Technology Act, 2000, Section 2(1)(za)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-054",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 54,
+      "subject": "Electricity Act",
+      "question": "What is the minimum and maximum sentence that can be awarded to an accused guilty of second or subsequent offence of theft of electric lines and materials under Section 136 of the Electricity Act, 2003:",
+      "options": [
+        "not less than 1 year but which may extend to 10 years and also fine which shall not be less than one lac rupees",
+        "not less than 6 months but which may extend to 5 years and also fine which shall not be less than ten thousand rupees",
+        "not less than 3 months but which may extend to 3 years and also fine which shall not be less than fifty thousand rupees",
+        "not less than 9 months but which may extend to 3 years and also fine which shall not be less than one lac rupees"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 136(1) proviso, Electricity Act, 2003: for a second/subsequent conviction for theft of electric lines/materials, imprisonment shall not be less than six months extendable to five years, with fine not less than ten thousand rupees.",
+      "reference": "Electricity Act, 2003, Section 136(1)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-055",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 55,
+      "subject": "Information Technology Act",
+      "question": "A police officer empowered to investigate cyber crime as per Section 78 of the Information Technology Act, 2000, must not be below the rank of",
+      "options": [
+        "Sub Inspector",
+        "Inspector",
+        "Deputy Superintendent of Police",
+        "Superintendent of Police"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 78 of the Information Technology Act, 2000 (as amended 2008) empowers a police officer not below the rank of Inspector to investigate offences under the Act.",
+      "reference": "Information Technology Act, 2000, Section 78",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-056",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 56,
+      "subject": "Indian Penal Code",
+      "question": "In which of the following judgments did the Supreme Court set aside the judgement of the High Court of Delhi which decriminalised Section 377 of the Indian Penal Code, 1860:",
+      "options": [
+        "Sakshi vs. Union of India - AIR 2004 SC 3566",
+        "Naz Foundation (India) Trust vs. Suresh Kumar Koushal - (2014) 3 SCC 220",
+        "PUCL Vs. Union of India - (2010) 14 SCC 245",
+        "Suresh Kumar Kaushal vs. Naz Foundation (India) Trust (2014) 1 SCC 1"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In Suresh Kumar Koushal v. Naz Foundation, (2014) 1 SCC 1, the Supreme Court set aside the Delhi High Court's Naz Foundation judgment and upheld/reinstated Section 377 IPC. Option (b) inverts the cause-title, so (d) is correct.",
+      "reference": "Suresh Kumar Koushal v. Naz Foundation, (2014) 1 SCC 1",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": "Historical case-identification question. Read alongside Navtej Singh Johar v. Union of India for subsequent treatment of Section 377."
+    },
+    {
+      "id": "rjs-2015-057",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 57,
+      "subject": "SC/ST (Prevention of Atrocities) Act",
+      "question": "Which of the following acts constitute 'Atrocity' as defined in Section 3(1) of the scheduled Castes and scheduled Tribes (Prevention of Atrocities) Act, 1989?",
+      "options": [
+        "Forcing to drink or eat any inedible or obnoxious substances",
+        "Intentionally insulting or intimidating with intent to humiliate in any place within public view",
+        "Forcing or intimidating not to vote or to vote for a particular candidate or vote in a manner other than provided by law",
+        "All the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "All three acts (forcing inedible substances, intentional insult in public view, and intimidation regarding voting) are enumerated atrocities under Section 3(1) of the SC/ST (Prevention of Atrocities) Act, 1989.",
+      "reference": "Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989, Section 3(1)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-058",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 58,
+      "subject": "NDPS Act",
+      "question": "Benefit of probation to a convict of offence under the Narcotic Drugs and Psychotropic substances Act, 1985 can be provided only if:",
+      "options": [
+        "he is under 21 years of age and is convicted for offence punishable under Section 26 or 27 of the Narcotic Drugs and Psychotropic Substances Act, 1985",
+        "he is under 18 years of age or is convicted for offence punishable under Section 26 or 27 of the Narcotic Drugs and Psychotropic Substances Act, 1985",
+        "to any accused, regardless of his age, sentenced to rigorous imprisonment up to 10 years",
+        "none of the above"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 33 NDPS Act, 1985 bars probation (CrPC §360/Probation of Offenders Act) for NDPS convicts UNLESS the person is under eighteen years of age OR the offence is punishable under Section 26 or 27. Option (b) matches ('under 18 OR §26/27').",
+      "reference": "Narcotic Drugs and Psychotropic Substances Act, 1985, Section 33, Section 26",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-059",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 59,
+      "subject": "Juvenile Justice",
+      "question": "Who, as per Section 2(1) of the Juvenile Justice (Care and Protection of children) Act, 2000, is a 'Juvenile in conflict with law'?",
+      "options": [
+        "A Juvenile who is alleged to have committed an offence and has not completed eighteen years of age as on the date of commission of such offence",
+        "A Juvenile who is alleged to have committed an offence and has not completed twelve years of age on the date of commission of such offence",
+        "A Juvenile who is alleged to have committed an offence and has not completed sixteen years of age on the date of commission of such offence",
+        "A Juvenile who is alleged to have committed an offence and has not completed fourteen years of age on the date of commission of such offence"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Section 2(l) of the Juvenile Justice (Care and Protection of Children) Act, 2000 defines a 'juvenile in conflict with law' as one who has not completed eighteen years of age as on the date of commission of the offence.",
+      "reference": "Juvenile Justice (Care and Protection of Children) Act, 2000, Section 2(l)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-060",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 60,
+      "subject": "Juvenile Justice",
+      "question": "Which of the following statements is not correct:",
+      "options": [
+        "one or more Juvenile Justice Boards shall be constituted by the State Government for every district",
+        "each Juvenile Justice Board shall consists of a Metropolitan Magistrate or a Judicial Magistrate and two social workers, of whom at least one shall be a woman",
+        "the order passed by the Juvenile Justice Board in absence of any Member at any stage of proceedings shall be invalid",
+        "power of the Juvenile Justice Board may also be exercised by the High Court and the court of Sessions when Court and the Court of Sessions, when the proceedings come before them in appeal, revision or otherwise"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under Section 4(3) proviso of the JJ Act, 2000, an order passed by the Board in the absence of any member at any stage of proceedings shall NOT be invalid merely on that ground. So the statement in (c) is the incorrect one.",
+      "reference": "Juvenile Justice (Care and Protection of Children) Act, 2000, Section 4(3)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-061",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 61,
+      "subject": "Evidence",
+      "question": "Under Section 32 of the Indian Evidence Act, 1872, statement of a person, who is dead, is relevant:",
+      "options": [
+        "if it relates to cause of someone else's death",
+        "if it relates to cause of his own death or someone else's death",
+        "if it relates to the cause of his own death",
+        "none of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Section 32(1) of the Indian Evidence Act, 1872 (dying declaration) makes a deceased's statement relevant when it relates to the cause of his own death or circumstances of the transaction resulting in his death; it concerns his OWN death.",
+      "reference": "Indian Evidence Act, 1872, Section 32(1)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-062",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 62,
+      "subject": "Criminal Procedure",
+      "question": "Section 436-A of the Code of Criminal Procedure, 1973, provides for grant of bail to an accused pending trial if:",
+      "options": [
+        "he has undergone detention for one-fourth period of imprisonment specified for the offence for which he is being tried",
+        "/he has undergone detention for one-third period of imprisonment specified for the offence for which he is being tried",
+        "he has undergone detention for one-half period of imprisonment specified for the offence for which he is being tried",
+        "(a) and (b) above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Section 436-A CrPC, 1973 entitles an under-trial to release on bail once he has undergone detention up to one-half of the maximum imprisonment specified for the offence.",
+      "reference": "Code of Criminal Procedure, 1973, Section 436-A",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-063",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 63,
+      "subject": "Evidence",
+      "question": "Facts, which, though not in issue, are so connected with a fact in issue as to form part of the same transaction, whether they occurred at the same time and place or at different times and places:",
+      "options": [
+        "are irrelevant",
+        "are relevant",
+        "are partly relevant",
+        "none of the above"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 6 of the Indian Evidence Act, 1872 (res gestae): facts forming part of the same transaction as a fact in issue are relevant, whether occurring at the same or different times and places.",
+      "reference": "Indian Evidence Act, 1872, Section 6",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-064",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 64,
+      "subject": "Evidence",
+      "question": "Which of the following statements, as per provisions of the Indian Evidence Act, 1872, is not correct?",
+      "options": [
+        "Facts which are inconsistent with any fact in issue, shall not be relevant",
+        "Facts not otherwise relevant are relevant if by themselves or in connection with other facts, they make the existence or non-existence of any fact in issue or relevant fact highly probable or improbable",
+        "Any fact is relevant, which shows or constitutes a motive or preparation for any fact in issue or relevant fact",
+        "Admissions are not conclusive proof of the matters admitted, but they may operate as estoppels under the provisions of the Indian Evidence Act, 1872"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Under Section 11 of the Evidence Act, facts inconsistent with any fact in issue ARE relevant. So statement (a) ('shall not be relevant') is the incorrect one.",
+      "reference": "Indian Evidence Act, 1872, Section 11",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-065",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 65,
+      "subject": "Constitutional Law",
+      "question": "Narcoanalysis, polygraph test and brain electrical activation profile test conducted against will of the person subjected to such tests, violates his right protected under Article 20(1), and right to personal liberty protected under Article 21 of the Constitution of India, was held by the Supreme Court in which of the following cases:",
+      "options": [
+        "Wakkar and Another vs. State of Uttar Pradesh - (2011) 3 SCC 306",
+        "Munna Kumar Upadhyay vs. State of Andhra Pradesh - (2012) 6 SCC 174",
+        "Jagroop singh vs. State of Punjab - (2012) 11 scc 768",
+        "Selvi and others vs. State of Karnataka - (2010) 7 SCC 263"
+      ],
+      "correctAnswer": null,
+      "explanation": "In Selvi v. State of Karnataka, (2010) 7 SCC 263, the Supreme Court held that involuntary narcoanalysis, polygraph and BEAP tests violate Article 20(3) and Article 21 of the Constitution.",
+      "reference": "Selvi v. State of Karnataka, (2010) 7 SCC 263; Constitution, Articles 20(3) and 21",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "needs-review",
+      "note": "The stem cites Article 20(1), while the explanation cites Article 20(3). PDF answer key: D."
+    },
+    {
+      "id": "rjs-2015-066",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 66,
+      "subject": "Rajasthan General Rules (Criminal)",
+      "question": "Statement 'A' - when a court of Sessions passes a sentence of death, the court shall, according to Rule 102 of the General Rules (Criminal) 1980, commit the prisoner by a warrant in the appropriate form to the jail from which he came to stand his trial, and shall submit its proceedings to the High Court at the latest on the fourth day after the sentence of death has been pronounced. Statement 'B' - when a court of Sessions passes a sentence against a female prisoner to death, according to Rule 104 of the General Rules (criminal) 1980, it shall consider after enquiring from such prisoner herself, if necessary, whether she is pregnant and if it thinks that it is likely, it shall have her examined by the District Medical officer or such other doctor as it may consider fit and if it finds that she is in fact pregnant, it shall make a report to the High Court.",
+      "options": [
+        "Both the aforesaid statements are correct",
+        "Statement 'A' is correct and Statement 'B' is incorrect",
+        "Statement 'B' is correct and Statement 'A' is incorrect",
+        "None of them is correct"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Both statements correctly reproduce Rules 102 and 104 of the Rajasthan General Rules (Criminal), 1980 regarding commitment of a death-sentenced prisoner and the enquiry into pregnancy of a female prisoner sentenced to death.",
+      "reference": "Rajasthan General Rules (Criminal), 1980, Rules 102",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-067",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 67,
+      "subject": "Indian Penal Code",
+      "question": "How many kinds of punishment are provided in Section 53 of the Indian Penal Code, 1860?",
+      "options": [
+        "six",
+        "Four",
+        "Five",
+        "Seven"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Section 53 IPC provides five kinds of punishment: death, imprisonment for life, imprisonment (rigorous/simple), forfeiture of property, and fine.",
+      "reference": "Indian Penal Code, 1860, Section 53",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-068",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 68,
+      "subject": "Indian Penal Code",
+      "question": "According to Sections 73 and 74 of the Indian Penal Code, 1860, a convict can be kept in solitary confinement for any portion or portions of imprisonment to which he is sentenced. Which of the following is incorrect?",
+      "options": [
+        "For period not exceeding three months in the whole",
+        "For period not exceeding three months, if the term of the imprisonment exceeds six months and does not exceed one year",
+        "For period not exceeding three months if the term of imprisonment exceeds one year",
+        "The solitary confinement in no case shall exceed 14 days at a tim"
+      ],
+      "correctAnswer": null,
+      "explanation": "Section 73 IPC caps solitary confinement at a maximum of three months only where imprisonment exceeds one year; (c) omits the limit and states 'exceeds one year' without the three-month cap context wrongly, making it the incorrect statement (the correct scale: <=6m:1m; 6m-1yr:2m; >1yr:3m).",
+      "reference": "Indian Penal Code, 1860, Section 73",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "needs-review",
+      "note": "The printed key labels as incorrect a choice that reproduces the three-month ceiling described by the solution. PDF answer key: C."
+    },
+    {
+      "id": "rjs-2015-069",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 69,
+      "subject": "Indian Penal Code",
+      "question": "A knows Z to be behind a bush. B does not know it. A, intending to cause, or knowing it to be likely to cause z's death, induces 8 to fire at the bush. B fires and kills z. What offence has been committed by A and B?",
+      "options": [
+        "A and B both would be guilty of committing offence punishable under Section 302 IPC",
+        "while A would be guilty of committing offence under Section 302 IPC, B would be guilty of committing offence under Section 304 Part II, IPC,",
+        "A would be guilty of committing offence punishable under Section 302 IPC, B would be guilty of no offence",
+        "A and B both would be guilty of committing offence punishable under Section 304 Part-I of the IPC"
+      ],
+      "correctAnswer": null,
+      "explanation": "This is Illustration (b) to Section 299 IPC. A, intending/knowing Z's death likely, induces innocent B to fire; A is guilty of culpable homicide (Section 302/304), while B, having no knowledge, commits no offence.",
+      "reference": "Indian Penal Code, 1860, Section 299, Section 302",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "needs-review",
+      "note": "The stem has a corrupted actor label and the solution does not resolve the keyed offence uniquely. PDF answer key: C."
+    },
+    {
+      "id": "rjs-2015-070",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 70,
+      "subject": "Indian Penal Code",
+      "question": "A is in a house which is on fire, with z, a child. People below hold out a blanket. A drops the child from the house-top, knowing it to be likely that the fall may kill the child but not intending to kill the child, and intending, in good faith, the child's benefit, and the child dies: Which of the following offences has been committed by A?",
+      "options": [
+        "Section 304-A, of Indian Penal Code, 186",
+        "Section 304 part II, of Indian Penal Code, 1860",
+        "Section 302, of Indian Penal Code, 1860",
+        "A has committed no offence"
+      ],
+      "correctAnswer": 3,
+      "explanation": "This is the illustration to Section 92 IPC (act done in good faith for another's benefit without consent in an emergency). A commits no offence.",
+      "reference": "Indian Penal Code, 1860, Section 92",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-071",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 71,
+      "subject": "English",
+      "question": "Identify the tense. I am pleading for the preservation of trees",
+      "options": [
+        "simple Present Tense",
+        "Past Tense",
+        "Present continuous Tense",
+        "Past continuous Tense"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'I am pleading' uses am + present participle (-ing), which is the Present Continuous Tense.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-072",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 72,
+      "subject": "English",
+      "question": "Fill in the blank with correct form of verb: My sister saw a snake while she ..................... in the garden",
+      "options": [
+        "was walking",
+        "walks",
+        "Is walking",
+        "were walking"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A past action interrupted by another past action takes the past continuous: 'while she was walking in the garden.'",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-073",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 73,
+      "subject": "English",
+      "question": "Pick up the correct synonym for the word: STUBBORN",
+      "options": [
+        "Easy",
+        "obstinate",
+        "willing",
+        "Pliable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A synonym of 'stubborn' is 'obstinate.' Easy, willing and pliable are antonyms.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-074",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 74,
+      "subject": "English",
+      "question": "Choose the word opposite in the meaning to the word: ARBITRARY",
+      "options": [
+        "Dictatorial",
+        "Autocratic",
+        "High handed",
+        "Methodical"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Arbitrary' (based on whim, not reason/order) is opposite to 'methodical' (orderly, systematic). The other options are synonyms.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-075",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 75,
+      "subject": "English",
+      "question": "Choose the meaning of the idiom. 'A man of weight'",
+      "options": [
+        "A fat person",
+        "To truthful and trustworthy man",
+        "A man of importance",
+        "A notorious man"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The idiom 'a man of weight' means a person of importance or influence.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-076",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 76,
+      "subject": "English",
+      "question": "Choose the meaning of the idiom. 'A fool's paradise'",
+      "options": [
+        "Paradise of idiots",
+        "A state of happiness for foolish reasons",
+        "To live in the past",
+        "To remain in the state of daydreaming"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The idiom 'a fool's paradise' means a state of happiness based on false hope or foolish/unfounded reasons. Option (b) captures this; daydreaming (d) is a distractor.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-077",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 77,
+      "subject": "English",
+      "question": "Choose the correct indirect speech. The policeman said to us, where are you going'?",
+      "options": [
+        "The Policeman asked to us where we are going.",
+        "The policeman told us where we were going.",
+        "The Policeman enquired where we were going.",
+        "The Policeman said where were we going"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An interrogative ('where are you going?') in indirect speech uses 'asked/enquired' with no inversion and tense back-shift: 'The Policeman enquired where we were going.' Option (a) wrongly keeps present tense and adds 'to'.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-078",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 78,
+      "subject": "English",
+      "question": "Choose the correct indirect speech. Call the first witness', said the Judge.",
+      "options": [
+        "The Judge asked for calling first witness.",
+        "The Judge commanded them to call the first witness.",
+        "The Judge said to call the first witness.",
+        "The Judge requested to call for first witness"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An imperative/command ('Call the first witness') is reported with 'commanded/ordered + object + to-infinitive': 'The Judge commanded them to call the first witness.'",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-079",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 79,
+      "subject": "English",
+      "question": "Choose the correct indirect speech. She said to me, \"I shall play now.\"",
+      "options": [
+        "she told me that she should play now.",
+        "she told me that she should play then.",
+        "She told me that she would play now.",
+        "She told me that she would play then."
+      ],
+      "correctAnswer": 3,
+      "explanation": "'I shall play now' back-shifts to 'would play' and the adverb 'now' becomes 'then': 'She told me that she would play then.'",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-080",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 80,
+      "subject": "English",
+      "question": "Choose the correct passive voice. Someone gave her a bulldog",
+      "options": [
+        "She was given a bulldog",
+        "A bulldog was given to her by someone.",
+        "she has been given a bulldog",
+        "She is being given a bulldog by someone."
+      ],
+      "correctAnswer": null,
+      "explanation": "'Someone gave her a bulldog' converts to passive with the indirect object as subject: 'She was given a bulldog' (agent 'by someone' dropped as indefinite). This is the standard preferred passive.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "needs-review",
+      "note": "Options A and B are both grammatically valid passive constructions. PDF answer key: A."
+    },
+    {
+      "id": "rjs-2015-081",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 81,
+      "subject": "English",
+      "question": "Choose the correct passive voice. Mona was writing a letter to her father",
+      "options": [
+        "A letter was written to her father by Mona.",
+        "A letter has been written to her father by Mona.",
+        "A letter was being written by Mona to her father.",
+        "A letter was written by Mona to her father."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Past continuous active ('was writing') becomes past continuous passive 'was being written': 'A letter was being written by Mona to her father.'",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-082",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 82,
+      "subject": "English",
+      "question": "Fill in the blanks with the correct options. ............... rich should help ..............poor",
+      "options": [
+        "A, a",
+        "The, a",
+        "The, an",
+        "The, the"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'The' before an adjective denotes a class of people ('the rich', 'the poor'). Hence 'The rich should help the poor' - option (d).",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-083",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 83,
+      "subject": "English",
+      "question": "Fill in the blank with the correct option. .............. pupil should obey his teacher",
+      "options": [
+        "A",
+        "The",
+        "An",
+        "X"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A singular countable noun used generically takes the indefinite article: 'A pupil should obey his teacher.'",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-084",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 84,
+      "subject": "English",
+      "question": "Fill in the blank with the correct option. Kalidas is .............. Shakespeare of India.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "X"
+      ],
+      "correctAnswer": 2,
+      "explanation": "When a proper noun is used as a common noun to denote an outstanding example ('the Shakespeare of India'), the definite article 'the' is used.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2015-085",
+      "year": 2015,
+      "paper": "Prelims",
+      "sourceQuestion": 85,
+      "subject": "Legal Maxims",
+      "question": "What do you mean by 'ACTUS CURIAE NEMINEM GRAVABIT'",
+      "options": [
+        "A personal right of action dies with the person",
+        "The law holds no man responsible for the act of God",
+        "An act of the court shall prejudice no man",
+        "None"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The maxim 'actus curiae neminem gravabit' means 'an act of the court shall prejudice no man' - no party should suffer due to a mistake of the court.",
+      "reference": "Actus curiae neminem gravabit",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2015",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-001",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 1,
+      "subject": "Succession",
+      "question": "Under provisions of Indian Succession Act, 1925 probate cannot be granted to:",
+      "options": [
+        "A married daughter",
+        "A minor son",
+        "Illegitimate child",
+        "Half brother"
+      ],
+      "correctAnswer": null,
+      "explanation": "Under the Indian Succession Act, 1925 (s.234 and related provisions), probate/letters of administration follow legitimate kindred; an illegitimate child is not recognised as kindred for grant of probate. A married daughter, minor son or half-brother can otherwise take a grant.",
+      "reference": "Indian Succession Act, 1925, Section 223",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The key and explanation conflict with the rule concerning a minor's eligibility for probate. PDF answer key: C."
+    },
+    {
+      "id": "rjs-2017-002",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 2,
+      "subject": "Hindu Law",
+      "question": "Under the Hindu Adoptions and Maintenance Act, 1956 who among the following cannot be adopted:",
+      "options": [
+        "A Hindu",
+        "Already adopted child",
+        "A minor",
+        "An unmarried child"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 10 of the Hindu Adoptions and Maintenance Act, 1956 lists who may be adopted: the person must be a Hindu, not already adopted, not married (unless custom permits) and below 15 years. A child already adopted cannot be adopted again.",
+      "reference": "Hindu Adoptions and Maintenance Act, 1956, Section 10",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-003",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 3,
+      "subject": "Legal Services Authorities Act",
+      "question": "Which of the following is not a 'Public Utility Service' for the purpose of the Legal Services Authority Act, 1987:",
+      "options": [
+        "Transport Service",
+        "Postal, Telegraph or Telephone Service",
+        "Insurance Service",
+        "Banking Services"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Section 22A of the Legal Services Authorities Act, 1987 defines 'public utility service' to include transport, postal/telegraph/telephone, power/water, hospital and insurance services. Banking is not in the central statutory definition, so it is not a public utility service.",
+      "reference": "Legal Services Authorities Act, 1987, Section 22A",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-004",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 4,
+      "subject": "Limitation",
+      "question": "In a case where a party is added or substituted owing to assignment or devolution of any interest during the pendency of a suit, the suit shall as regards him, be deemed to have been instituted:",
+      "options": [
+        "On the date the suit was instituted.",
+        "When he had a party.",
+        "On the date when the application for addition or substitution is made.",
+        "None of the above."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Under Order XXII Rule 10 (read with the proviso to s.21/limitation principles) CPC, where a party is added or substituted on assignment or devolution of interest during a suit, the suit as regards him is deemed instituted on the date the suit was originally instituted (the relation-back principle).",
+      "reference": "Limitation Act, 1963, Section 21(2); CPC, Order XXII Rule 10",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-005",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 5,
+      "subject": "Motor Vehicles Act",
+      "question": "As per Schedule for compensation for third party fatal accidents under Section 163A of the Motor Vehicles Act, 1988 the amount of compensation arrived at, in consideration of the expenses, which a victim would have incurred, towards maintaining himself, had he been alive, shall be reduced",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under the Second Schedule to s.163A of the Motor Vehicles Act, 1988, one-third (1/3) of the income is deducted towards the amount the deceased would have spent on maintaining himself had he been alive.",
+      "reference": "Motor Vehicles Act, 1988, s.163A",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": "Historical question on the former Section 163A and Second Schedule."
+    },
+    {
+      "id": "rjs-2017-006",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 6,
+      "subject": "Registration",
+      "question": "For an instrument of gift of immovable property, under the Registration Act, 1908:",
+      "options": [
+        "Registration is compulsory",
+        "Registration is optional",
+        "Registration is exempted",
+        "None of the above"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Under s.17 of the Registration Act, 1908 (read with s.123 of the Transfer of Property Act, 1882), a gift of immovable property must be effected by a registered instrument; registration is compulsory.",
+      "reference": "Registration Act, 1908, s.17, s.123",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-007",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 7,
+      "subject": "Property Law",
+      "question": "Where the time limit of a lease is of a year or number of years, which is expressed to be determinable before its expiration, and the lease omits to mention at whose option it is so terminable, who shall have such option:",
+      "options": [
+        "Lessee",
+        "Lessor",
+        "Transferor",
+        "None of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "Section 108(c) of the Transfer of Property Act, 1882 provides that where a lease for a year/years is determinable before expiry and the lease omits to mention at whose option, such option lies with the lessee.",
+      "reference": "Transfer of Property Act, 1882, Section 110",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The choice is supported by Section 110 rather than the section cited in the source explanation. PDF answer key: A."
+    },
+    {
+      "id": "rjs-2017-008",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 8,
+      "subject": "Legal Maxims",
+      "question": "The maxim 'Actus curiae neminem gravabit means",
+      "options": [
+        "An act of the Court shall prejudice no man",
+        "The act of God does wrong to no one.",
+        "An act in law shall prejudice no man.",
+        "An act does not constitute guilt unless done with a guilty intention."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Actus curiae neminem gravabit' means an act of the Court shall prejudice no man - no party should suffer for a mistake or delay attributable to the Court.",
+      "reference": "Actus curiae neminem gravabit",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-009",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 9,
+      "subject": "Statutory Interpretation",
+      "question": "Which of the following is not an internal aid to the construction or interpretation of statute:",
+      "options": [
+        "Long Title of an Act.",
+        "Illustrations",
+        "Marginal Notes appended to a section.",
+        "Preamble of a statute"
+      ],
+      "correctAnswer": null,
+      "explanation": "Long title, marginal notes and preamble are internal aids to construction (parts of the statute). Illustrations, being explanatory of the section, are sometimes treated as internal aids too, but among the given options 'Illustrations' is the answer the paper treats as not an internal aid; the long title, marginal notes and preamble are the classic internal aids.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The explanation acknowledges that the keyed choice can also be an internal aid. PDF answer key: B."
+    },
+    {
+      "id": "rjs-2017-010",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 10,
+      "subject": "Muslim Law",
+      "question": "Iddat period, in case of a divorced woman, if she is subject to menstruation, means:",
+      "options": [
+        "Three menstrual courses after the date of divorce",
+        "Six months period after the date of divorce",
+        "Nine menstrual courses after the date of divorce.",
+        "Nine months after the date of divorce."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Under Muslim law (and the Muslim Women (Protection of Rights on Divorce) Act, 1986), iddat for a divorced woman subject to menstruation is three menstrual courses after the date of divorce.",
+      "reference": "Muslim Women (Protection of Rights on Divorce) Act, 1986, Section 2(b)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-011",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 11,
+      "subject": "Rajasthan Agricultural Indebtedness",
+      "question": "For the purpose of Rajasthan Relief of Agricultural indebtedness Act, 1957, the term 'agriculture' does not include:",
+      "options": [
+        "Horticulture",
+        "Breeding of cattle, camels, sheep or goats",
+        "Bee farming and collecting honey",
+        "Reserving land for fodder grazing or thatching grass."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The definition of 'agriculture' in the Rajasthan Relief of Agricultural Indebtedness Act, 1957 includes horticulture, breeding of cattle/camels/sheep/goats and reserving land for fodder/grazing/thatching grass, but does NOT include bee farming and collecting honey.",
+      "reference": "Rajasthan Relief of Agricultural Indebtedness Act, 1957",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-012",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 12,
+      "subject": "Rajasthan Stamp Act",
+      "question": "Any person aggrieved by an order made by the Collector (Stamps) can apply for a revision under Section 65 of the Rajasthan Stamp Act, 1998, before:",
+      "options": [
+        "Rajasthan High Court",
+        "Chief Controlling Revenue Authority",
+        "Inspector General of Stamps",
+        "State Government"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 65 of the Rajasthan Stamp Act, 1998 provides for revision by the Chief Controlling Revenue Authority; a person aggrieved by an order of the Collector (Stamps) applies to that authority.",
+      "reference": "Rajasthan Stamp Act, 1998, Section 65",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-013",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 13,
+      "subject": "Constitutional Law",
+      "question": "The Supreme Court of India in the exercise of its jurisdiction may make such order as is necessary for doing complete justice in any case, such power is conferred by:",
+      "options": [
+        "Article 141 of the Constitution of India.",
+        "Article 142 of the Constitution of India.",
+        "Article 32 of the Constitution of India.",
+        "Article 124 of the Constitution of India."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 142 of the Constitution empowers the Supreme Court to pass such decree or order as is necessary for doing complete justice in any cause or matter pending before it.",
+      "reference": "Constitution of India, Article 142",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-014",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 14,
+      "subject": "Constitutional Law",
+      "question": "In which Judgement, Hon'ble Supreme Court has held Right to Privacy to be a Fundamental Right:",
+      "options": [
+        "Subramanium Swamy vs. Union of India & Ors.",
+        "Lok Prahari vs. Union of India & Ors.",
+        "Justice Sunanda Bhandare Foundation vs. Union of India & Ors.",
+        "Justice K.S.Puttaswamy & Anr. vs. Union of India & Ors."
+      ],
+      "correctAnswer": 3,
+      "explanation": "In Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1, a nine-judge bench held that the right to privacy is a fundamental right under Article 21.",
+      "reference": "Justice K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-015",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 15,
+      "subject": "Law of Torts",
+      "question": "Which of the following is a valid defence against an action in tort:",
+      "options": [
+        "Mistake of fact",
+        "Act of God",
+        "Minority",
+        "None of the above"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Act of God (vis major) is a recognised general defence in tort. Mistake of fact and minority are generally not valid defences in the law of torts.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-016",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 16,
+      "subject": "Hindu Law",
+      "question": "When a marriage has been dissolved by a decree of divorce under Hindu Marriage Act,1955 and there is a right of appeal, the divorced persons may marry again:",
+      "options": [
+        "After expiry of 1 month from the decree of divorce.",
+        "Immediately after passing of the decree of divorce.",
+        "After expiry of 2 months from the decree of divorce.",
+        "After expiry of the time for appealing, without any appeal having been presented."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Section 15 of the Hindu Marriage Act, 1955 provides that divorced persons may marry again after the time for appealing has expired without any appeal having been presented (or after dismissal of an appeal).",
+      "reference": "Hindu Marriage Act, 1955, Section 15",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-017",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 17,
+      "subject": "Evidence",
+      "question": "Promissory estoppel is the extension of principle contained in which provision of the Evidence Act:",
+      "options": [
+        "Section 65",
+        "Section 110",
+        "Section 115",
+        "Section 150"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Promissory estoppel is an extension of the principle of estoppel contained in Section 115 of the Indian Evidence Act, 1872.",
+      "reference": "Indian Evidence Act, 1872, Section 115",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-018",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 18,
+      "subject": "Hindu Law",
+      "question": "Prior to the Hindu Succession (Amendment) Act, 2005 coming into force, who amongst the following was not Class I heir of male Hindu dying intestate:",
+      "options": [
+        "Mother",
+        "Widow",
+        "Daughter",
+        "None of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Mother, widow and daughter were all Class I heirs of a male Hindu dying intestate even prior to the 2005 amendment (Schedule, s.8 HSA, 1956). Hence none of them was excluded - 'None of the above'.",
+      "reference": "Hindu Succession Act, 1956, Section 8 and Schedule",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-019",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 19,
+      "subject": "Rajasthan Land Revenue",
+      "question": "Under which provision of Rajasthan Land Revenue Act, 1956, a person without lawful authority occupying land, which is at the disposal of local authority, can be evicted:",
+      "options": [
+        "Section 91 of the Act",
+        "Section 90-A of the Act",
+        "Section 90-B of the Act",
+        "Section 92 of the Act"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Section 91 of the Rajasthan Land Revenue Act, 1956 provides for summary eviction of a person occupying, without lawful authority, land which is at the disposal of the State or a local authority.",
+      "reference": "Rajasthan Land Revenue Act, 1956, Section 91",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-020",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 20,
+      "subject": "Civil Procedure",
+      "question": "'Decree', as defined by Section 2 of the Code of Civil Procedure, 1908 does not include:",
+      "options": [
+        "A preliminary decree.",
+        "Rejection of a plaint.",
+        "Determination of any question within Section 144 CPC.",
+        "Any order of dismissal for default"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Section 2(2) CPC: 'decree' includes rejection of a plaint and determination of any question within s.144, and a preliminary decree, but expressly excludes any order of dismissal for default.",
+      "reference": "Code of Civil Procedure, 1908, Section 2(2), s.144",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-021",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 21,
+      "subject": "Civil Procedure",
+      "question": "Against a decree passed in a suit after recording a compromise, an appeal on the ground that the compromise should not have been recorded, can be filed under:",
+      "options": [
+        "Section 151 CPC.",
+        "Order XXIII CPC.",
+        "Order XLIII Rule 1-ACPC.",
+        "None of the above."
+      ],
+      "correctAnswer": null,
+      "explanation": "By the proviso to Order XXIII Rule 3 and Rule 3A CPC, no separate suit/appeal lies challenging a recorded compromise; the only remedy is before the same court that recorded it. No appeal under the listed provisions lies, so 'None of the above'. (Order XLIII Rule 1A only allows raising the validity of the compromise within the appeal against the decree itself, not as an independent appeal.)",
+      "reference": "CPC, Section 96(3), Order XXIII Rules 3 and 3A, and Order XLIII Rule 1A(2)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The solution and the appeal provision cited within it require reconciliation. PDF answer key: D."
+    },
+    {
+      "id": "rjs-2017-022",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 22,
+      "subject": "Rajasthan Rent Control",
+      "question": "Chapter II and III of Rajasthan Rent Control Act, 2001 applies to:",
+      "options": [
+        "Any premises let out to a citizen of a foreign country.",
+        "Any premises belonging to or vested in a University established by any law for the time being in force.",
+        "Any premises belonging to a Government Company as defined under Section 617 of the Companies Act, 1956.",
+        "Any premises situated in the municipal area of Jaipur City, let out for residential purposes, for a monthly rent of Rs. 8,000/-."
+      ],
+      "correctAnswer": null,
+      "explanation": "Section 3 of the Rajasthan Rent Control Act, 2001 exempts (excludes from Chapters II & III) premises let to foreign citizens, premises of a University/Government Company, etc. The Jaipur residential premises is the intended 'applies' answer (d). Flagged: per the bare Act, residential premises in Jaipur with rent of Rs.7,000 or more are also exempt, so Rs.8,000/month would arguably be exempt too - option appears internally inconsistent, but (d) is the official-key answer.",
+      "reference": "Rajasthan Rent Control Act, 2001, Section 3",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The supplied explanation identifies a possible statutory exemption for the keyed premises. PDF answer key: D."
+    },
+    {
+      "id": "rjs-2017-023",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 23,
+      "subject": "Rajasthan Municipal Law",
+      "question": "A suit against a municipality or its officers can be instituted otherwise than for the recovery of immovable property or for a declaration of title thereto:",
+      "options": [
+        "After six months of the accrual of cause of action",
+        "After eight months of the accrual of cause of action.",
+        "Within six months next after the accrual of cause of action.",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Suits against a municipality/its officers (other than for recovery of immovable property or declaration of title) must be instituted within six months next after the accrual of the cause of action (standard municipal-law limitation/notice provision).",
+      "reference": "Rajasthan Municipalities Act, 2009",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-024",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 24,
+      "subject": "Easements",
+      "question": "The grant of and transfer of licences is governed by:",
+      "options": [
+        "The Transfer of Property Act, 1882.",
+        "The Specific Relief Act, 1963.",
+        "The Indian Contract Act, 1932.",
+        "The Indian Easements Act, 1882."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Licences are dealt with under the Indian Easements Act, 1882 (ss.52-64); the grant and transfer of licences is governed by that Act.",
+      "reference": "Indian Easements Act, 1882, ss.52-64",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-025",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 25,
+      "subject": "Rajasthan Court Fees",
+      "question": "Under Rajasthan Court fees and Suits. Valuation Act, 1961, all questions arising on a plea that the subject matter of the suit has not been properly valued or that the fee paid is not sufficient, are required to be heard and decided:",
+      "options": [
+        "At the final hearing of the suit.",
+        "At the discretion of the trial court.",
+        "Before the hearing of the suit as contemplated by Order XVIII CPC.",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under the Rajasthan Court-fees and Suits Valuation Act, 1961, all questions on under-valuation or insufficiency of court-fee are to be heard and decided before the hearing of the suit (as contemplated by Order XVIII CPC).",
+      "reference": "Rajasthan Court Fees and Suits Valuation Act, 1961",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-026",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 26,
+      "subject": "Specific Relief",
+      "question": "Which of the contract is not specifically enforceable:",
+      "options": [
+        "A contract for the non performance of which compensation in money is not an adequate relief.",
+        "A contract which is in its nature determinable.",
+        "A contract, the performance of which does not involve the performance of a continuous duty, which the Court can supervise.",
+        "A contract which is not dependent on the personal qualification or volition of the parties."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under Section 14(1) of the Specific Relief Act, 1963, a contract which is in its nature determinable cannot be specifically enforced. Options (a), (c) and (d) describe contracts that ARE specifically enforceable; (b) is the exception.",
+      "reference": "Specific Relief Act, 1963, Section 14(1)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-027",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 27,
+      "subject": "Rajasthan Tenancy",
+      "question": "The power of review on the Board of Revenue and other revenue courts is conferred by which provision of the Rajasthan Tenancy Act, 1955:",
+      "options": [
+        "Section 207",
+        "Section 224",
+        "Section 229",
+        "Section 230"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Section 229 of the Rajasthan Tenancy Act, 1955 confers the power of review on the Board of Revenue and other revenue courts (Sections 229-231 deal with review, revision and reference).",
+      "reference": "Rajasthan Tenancy Act, 1955, Section 229, Sections 229-231",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-028",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 28,
+      "subject": "Negotiable Instruments",
+      "question": "Which of the following is not a negotiable instrument:",
+      "options": [
+        "Promissory note",
+        "Fixed Deposit Receipt",
+        "Bill of Exchange.",
+        "A cheque"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 13 of the Negotiable Instruments Act, 1881 recognises only promissory notes, bills of exchange and cheques as negotiable instruments. A Fixed Deposit Receipt is not a negotiable instrument.",
+      "reference": "Negotiable Instruments Act, 1881, Section 13",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-029",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 29,
+      "subject": "Rajasthan General Rules (Civil)",
+      "question": "Under the General Rules (Civil), 1986 all pleadings, applications and petitions filed in the course of civil judicial proceedings, shall be written in:",
+      "options": [
+        "Hindi",
+        "English",
+        "Any language specified in the Eighth Schedule of the Constitution of India.",
+        "None of the above"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Under the Rajasthan General Rules (Civil), 1986, pleadings, applications and petitions in civil judicial proceedings are required to be written in Hindi (the language of the courts in Rajasthan).",
+      "reference": "Rajasthan General Rules (Civil), 1986",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-030",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 30,
+      "subject": "Arbitration",
+      "question": "Under the Arbitration and Conciliation Act, 1996, in the case of international commercial arbitration 'Court' means",
+      "options": [
+        "The principal Civil Court of original jurisdiction.",
+        "Small Causes Court",
+        "The High Court",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under Section 2(1)(e)(ii) of the Arbitration and Conciliation Act, 1996, in the case of international commercial arbitration 'Court' means the High Court in exercise of its ordinary original civil jurisdiction (or having jurisdiction to decide the questions forming the subject-matter).",
+      "reference": "Arbitration and Conciliation Act, 1996, Section 2(1)(e)(ii)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-031",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 31,
+      "subject": "Arbitration",
+      "question": "An order refusing to refer the parties to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996 is appealable under:",
+      "options": [
+        "Section 34 of the Act",
+        "Article 227 of the Constitution of India",
+        "Section 37 of the Act",
+        "Section 11 of the Act"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Section 37(1)(a) of the Arbitration and Conciliation Act, 1996 makes an order refusing to refer the parties to arbitration under Section 8 appealable. (Post the 2015 amendment Section 37 expressly covers refusal under Section 8.)",
+      "reference": "Arbitration and Conciliation Act, 1996, Section 37(1)(a), Section 8, Section 37",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-032",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 32,
+      "subject": "Rajasthan Panchayati Raj",
+      "question": "The provisions for removal and suspension of any member or Chairperson of a Panchayati Raj Institution under the Rajasthan Panchayati Raj Act, 1994 are contained in:",
+      "options": [
+        "Section 119 of the Act",
+        "Section 38 of the Act",
+        "Section 117-A of the Act",
+        "Section 39 of the Act"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 38 of the Rajasthan Panchayati Raj Act, 1994 contains the provisions for removal and suspension of any member, Chairperson or Deputy Chairperson of a Panchayati Raj Institution.",
+      "reference": "Rajasthan Panchayati Raj Act, 1994, Section 38",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-033",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 33,
+      "subject": "Partnership",
+      "question": "Under section 10 of the Indian Partnership Act, 1932 every partner is under a duty:",
+      "options": [
+        "To render true accounts and full information.",
+        "To indemnify the firm for any loss caused to it by his fraud in the conduct of the business of the firm.",
+        "Not to carry on any business other than that of the firm.",
+        "To be just and faithful to each other."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 10 of the Indian Partnership Act, 1932 ('Duty to indemnify for loss caused by fraud') casts on every partner the duty to indemnify the firm for any loss caused to it by his fraud in the conduct of the business of the firm. The other duties fall under Sections 9, 11 and 16.",
+      "reference": "Indian Partnership Act, 1932, Section 10, Sections 9",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-034",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 34,
+      "subject": "Sale of Goods",
+      "question": "Under Sale of Goods Act, 1930, movable goods does not include:",
+      "options": [
+        "Stock and shares",
+        "Grass",
+        "Money",
+        "Growing crops"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under Section 2(7) of the Sale of Goods Act, 1930, 'goods' means every kind of movable property other than actionable claims and money, but includes stock and shares, growing crops, grass, and things attached to land agreed to be severed. Money is expressly excluded.",
+      "reference": "Sale of Goods Act, 1930, Section 2(7)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-035",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 35,
+      "subject": "Civil Procedure",
+      "question": "In a suit against a Corporation, the summons may be served on:",
+      "options": [
+        "Any employee of the corporation",
+        "Relative of the director of the corporation.",
+        "Principal officer of the corporation.",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under Order XXIX Rule 2 CPC, in a suit against a corporation the summons may be served on the secretary, or on any director or other principal officer of the corporation.",
+      "reference": "Code of Civil Procedure, 1908, Order XXIX Rule 2",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-036",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 36,
+      "subject": "Information Technology Act",
+      "question": "The offences under Sections 66B, 66C, 66D and 66E of Information and Technology Act, 2000, are",
+      "options": [
+        "Cognizable",
+        "Sessions Triable",
+        "Non-bailable",
+        "None of the above"
+      ],
+      "correctAnswer": 0,
+      "explanation": "By virtue of Section 77B of the Information Technology Act, 2000, offences punishable with imprisonment of three years and above (which includes Sections 66B, 66C, 66D, 66E) are cognizable; these are bailable and not sessions-triable.",
+      "reference": "Information Technology Act, 2000, Section 77B, Sections 66B",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-037",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 37,
+      "subject": "Criminal Procedure",
+      "question": "A complainant, of a Magistrate triable case instituted upon a complaint, can challenge the judgement of acquittal passed by the competent court, by filing:",
+      "options": [
+        "Revision in the Sessions Court.",
+        "Revision in the High Court.",
+        "Appeal before a Sessions Court.",
+        "Application for grant of leave to appeal in the High Court"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Under Section 378(4) CrPC, in a complaint case where the order is one of acquittal, the complainant may present an appeal to the High Court only after obtaining special leave to appeal from the High Court.",
+      "reference": "Code of Criminal Procedure, 1973, Section 378(4)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-038",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 38,
+      "subject": "Evidence",
+      "question": "An information, supplied by an accused under Section 27 of the Evidence Act, shall be recorded:",
+      "options": [
+        "In presence of two independent Panch witnesses.",
+        "In presence of a Gazetted Officer.",
+        "In presence of two Police Officers.",
+        "None of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Section 27 of the Evidence Act prescribes no particular mode/witnesses for recording the information leading to discovery; the law mandates no presence of panch witnesses, Gazetted Officer or police officers as a condition. Hence 'None of the above.'",
+      "reference": "Indian Evidence Act, 1872, Section 27",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-039",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 39,
+      "subject": "Juvenile Justice",
+      "question": "While assessing age of a person under the Juvenile Justice (care and protection of children) Act, 2015, the Court/Board is required to consider the documents/evidence in the following order of preference:",
+      "options": [
+        "(i) Birth Certificate issued by a Municipality. (ii) School Certificate. (iii) Ossification test report. (iv) Aadhar Card.",
+        "(i) Ossification test report. (ii) Birth Certificate issued by the Municipality. (iii) Aadhar Card.",
+        "(i) Birth Certificate issued from the school/matriculation certificate. (ii) Date of birth certificate issued by the Municipality. (iii) Ossification test report.",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Section 94(2) of the Juvenile Justice Act, 2015 prescribes the order of preference: (i) date of birth certificate from school / matriculation certificate; failing which (ii) birth certificate from a municipality/corporation; and only in absence of both, (iii) ossification/age determination test.",
+      "reference": "Juvenile Justice (Care and Protection of Children) Act, 2015, Section 94(2)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-040",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 40,
+      "subject": "Juvenile Justice",
+      "question": "Which of the following orders may not be passed by the Juvenile Justice Board after conducting inquiry of a child in conflict with law:",
+      "options": [
+        "Direct the child to attend a school.",
+        "Direct the child to attend a vocational training centre.",
+        "Sentence the child to imprisonment till he attains 18 years of age.",
+        "Direct the child to perform community service."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under Section 18 of the JJ Act, 2015, the Board can pass dispositional orders (attend school, vocational training, community service, etc.) but cannot sentence a child in conflict with law to imprisonment; Section 21 bars death penalty/life imprisonment, and the Board has no power to imprison.",
+      "reference": "Juvenile Justice (Care and Protection of Children) Act, 2015, Section 18, Section 21",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-041",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 41,
+      "subject": "Juvenile Justice",
+      "question": "A Children Court trying a child in conflict with law for a heinous offence, is not empowered to",
+      "options": [
+        "Hold trial of a child as an adult.",
+        "Hold inquiry of the child as a Juvenile Justice Board.",
+        "Sentence the child to imprisonment for a term of 10 years.",
+        "Send the child to a place of safety till he attains the age of 21 years."
+      ],
+      "correctAnswer": null,
+      "explanation": "Under Section 19 r/w Section 21 of the JJ Act, 2015, a Children's Court trying a child as an adult cannot sentence the child to imprisonment (death penalty/life imprisonment without release are barred and ordinary imprisonment is not the prescribed mode); a fixed-term sentence such as 10 years' imprisonment is impermissible.",
+      "reference": "Juvenile Justice (Care and Protection of Children) Act, 2015, Section 19, Section 21",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The supplied explanation generalises the statutory sentencing restriction. Verify the distinction between a sentence and where it is served. PDF answer key: C."
+    },
+    {
+      "id": "rjs-2017-042",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 42,
+      "subject": "Juvenile Justice",
+      "question": "Where, after inquiry under Section 15 of the Juvenile Justice (care and protection of children) Act, 2015, the Juvenile Justice Board is satisfied that a child above 16 years of age, has committed a heinous offence and should be tried as an adult, it may:",
+      "options": [
+        "Commit the case to the Sessions Court concerned for trial of the child as an adult.",
+        "Try the child as per the procedure provided in Cr.P.C",
+        "Return the charge-sheet to the Investigating Officer for presentation in the Court concerned.",
+        "Transfer the case to the Children Court for trial of the child as an adult."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Under Section 15 r/w Section 18(3) of the JJ Act, 2015, where the Board finds the child should be tried as an adult, it transfers the case to the Children's Court having jurisdiction to try such offences.",
+      "reference": "Juvenile Justice (Care and Protection of Children) Act, 2015, Section 15, Section 18(3)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-043",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 43,
+      "subject": "NDPS Act",
+      "question": "A private vehicle proceeding on a Highway, suspected to be carrying psychotropic drugs, may be searched by:",
+      "options": [
+        "A Head Constable posted in the Police Station concerned.",
+        "A Sub-Inspector posted in some other District.",
+        "The Deputy Superintendent of Police or officer-in-charge of the police station of the area concerned.",
+        "All of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "Under Section 42 of the NDPS Act, 1985 (search of a vehicle in transit/conveyance on a highway falls under Section 43 for public place; empowered officers under Section 42 are the Deputy Superintendent of Police or officer-in-charge of the police station/empowered gazetted officers of the area concerned).",
+      "reference": "Narcotic Drugs and Psychotropic Substances Act, 1985, Section 42, Section 43",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The explanation gives conflicting statutory grounds for the vehicle search. PDF answer key: C."
+    },
+    {
+      "id": "rjs-2017-044",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 44,
+      "subject": "NDPS Act",
+      "question": "Before searching a suspect carrying a bag containing narcotic drugs in his hand, the Officer concerned is required to apprise him of his right to be searched in the presence of:",
+      "options": [
+        "A Magistrate or a Gazetted Officer.",
+        "Two independent witnesses from the locality.",
+        "Officer-in-charge of the Police Station of the area concerned.",
+        "None of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "Under Section 50 of the NDPS Act, 1985, before a personal search the officer must apprise the suspect of his right to be searched in the presence of a Gazetted Officer or a Magistrate (as held in State of Punjab v. Baldev Singh).",
+      "reference": "Narcotic Drugs and Psychotropic Substances Act, 1985, Section 50",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The question describes a bag search, while the explanation addresses a personal search. PDF answer key: A."
+    },
+    {
+      "id": "rjs-2017-045",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 45,
+      "subject": "NDPS Act",
+      "question": "A vehicle, container or a receptacles used for commission of an offence punishable under the NDPS Act, 1985, shall not be liable to be confiscated:",
+      "options": [
+        "If the person using the same is acquitted by the Court after trial.",
+        "If the prosecution fails to lead evidence about its ownership.",
+        "If the owner proves that the vehicle was used in commission of the offence without his knowledge or connivance.",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under the proviso to Section 60(3) of the NDPS Act, 1985, a conveyance shall not be confiscated if the owner proves that it was used in the commission of the offence without his knowledge or connivance and that he had taken reasonable precautions.",
+      "reference": "Narcotic Drugs and Psychotropic Substances Act, 1985, Section 60(3)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-046",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 46,
+      "subject": "Property Law",
+      "question": "A being the owner of a plot of land, sells the same to B through a registered sale deed in the year 2005. B however does not make full payment to A. A again sells the same land to C in the year 2010 without informing him of the earlier transaction of 2005. Who would be the person aggrieved in these circumstances:",
+      "options": [
+        "B (the first purchaser).",
+        "A (the seller).",
+        "C (the subsequent purchaser)",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under Section 27 r/w Section 19(b) of the Specific Relief Act, the prior registered sale to B (whether or not fully paid) creates a transfer; C, who paid value without notice of the earlier transaction, is the person aggrieved/prejudiced by A's fraudulent second sale.",
+      "reference": "Transfer of Property Act, 1882, Section 27, Section 19(b)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-047",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 47,
+      "subject": "SC/ST (Prevention of Atrocities) Act",
+      "question": "The bail application rejected by the Special Judge, SC/ST (Prevention of Atrocities) Act, in a case involving offences under the said Act, may be challenged in the High Court, by filing:",
+      "options": [
+        "Bail application under Section 439 Cr.P.C.",
+        "Revision under Section 397 Cr.P.C.",
+        "Petition under Section 482 Cr.P.C.",
+        "An appeal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Section 14A of the SC/ST (Prevention of Atrocities) Act, 1989 provides an appeal to the High Court against an order granting or refusing bail by the Special Court; hence the rejection is challenged by way of an appeal (not Section 439/397/482 CrPC).",
+      "reference": "Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989, Section 14A, Section 439",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-048",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 48,
+      "subject": "SC/ST (Prevention of Atrocities) Act",
+      "question": "X knows that Y is a member of the Scheduled Caste community. During the course of a free fight, X inflicts a grievous injury to Y by a sharp weapon. X is guilty of offence punishable under Section(s):",
+      "options": [
+        "326 IPC only",
+        "3(b)(V) of SC/ST (Prevention of Atrocities) Act.",
+        "326 IPC and 3(b)(V) of SC/ST (Prevention of Atrocities) Act.",
+        "None of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "In a free fight, the grievous hurt by sharp weapon is punishable under Section 326 IPC; the SC/ST Act offence under Section 3 requires the act to be committed 'on the ground that' the victim is a member of a SC/ST. In a free fight that caste-based intent is absent, so only Section 326 IPC applies.",
+      "reference": "Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989, Section 326, Section 3",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "Verify the version of the SC/ST Act applicable to this question. The interpretation in the solution is version-sensitive. PDF answer key: A."
+    },
+    {
+      "id": "rjs-2017-049",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 49,
+      "subject": "Criminal Procedure",
+      "question": "A woman aged 30 years and her son aged 14 years, are witnesses to a murder. Their statements under Section 161 Cr.P.C. may be recorded by the Police Officer concerned at:",
+      "options": [
+        "The scene of the occurrence.",
+        "The Women Police Station.",
+        "At the Police Station where FIR is registered.",
+        "The place where, such woman and her son reside"
+      ],
+      "correctAnswer": null,
+      "explanation": "Section 161 CrPC permits the police officer to examine and record statements of witnesses, including a woman and a child, at the scene of occurrence (or wherever the witness is found); there is no statutory bar requiring a particular police station or residence, so the statement may be recorded at the scene of occurrence.",
+      "reference": "CrPC, Sections 160 and 161",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The explanation does not address the separate attendance protections in Section 160. PDF answer key: A."
+    },
+    {
+      "id": "rjs-2017-050",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 50,
+      "subject": "Criminal Procedure",
+      "question": "In which of the following cases, the Court is required to record evidence before framing of charge:",
+      "options": [
+        "Summons trial cases.",
+        "Sessions trial cases.",
+        "Warrant cases instituted upon a complain",
+        "Warrant cases instituted upon a Police report."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under Section 244 CrPC, in a warrant case instituted upon a complaint the Magistrate must take all such evidence as may be produced in support of the prosecution before framing of charge (Section 246). In police-report warrant cases (Section 240) and Sessions trials, charge is framed on the record/documents without pre-charge evidence.",
+      "reference": "Code of Criminal Procedure, 1973, Section 244, Section 246, Section 240",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-051",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 51,
+      "subject": "Domestic Violence Act",
+      "question": "Noncompliance of, which of the following orders passed under the Protection of Women from Domestic Violence Act, 2005, is an offence:",
+      "options": [
+        "Maintenance order",
+        "Custody order",
+        "Residence order",
+        "Protection order"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Under Section 31 of the Protection of Women from Domestic Violence Act, 2005, breach of a 'protection order' (or interim protection order) is the only non-compliance made a punishable offence (up to 1 year/Rs.20,000).",
+      "reference": "Protection of Women from Domestic Violence Act, 2005, Section 31",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-052",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 52,
+      "subject": "Evidence",
+      "question": "A woman subjected to rape, gives a statement under Section 164 Cr.P.C. implicating the accused for the offence. She commits suicide sometime later but before her statement could be recorded at the trial. Such statement recorded under Section 164 Cr.P.C. would be:",
+      "options": [
+        "Admissible as a substantive piece of evidence",
+        "Admissible under Section 32 of the Evidence Act.",
+        "Admissible under Section 33 of the Evidence Act.",
+        "Inadmissible in evidence."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Once the maker is dead, her Section 164 CrPC statement as to the cause/circumstances of her death (rape leading to suicide) becomes admissible as a dying declaration under Section 32(1) of the Evidence Act; it is not 'substantive' evidence in the ordinary sense nor admissible under Section 33 (which needs prior cross-examination).",
+      "reference": "Indian Evidence Act, 1872, Section 32(1); CrPC, Section 164",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-053",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 53,
+      "subject": "Probation of Offenders",
+      "question": "A Court after holding trial, convicts and grants benefit of Probation of Offenders Act, 1958 to an accused. Which of the following orders is impermissible in law:",
+      "options": [
+        "Admonish the offender.",
+        "Direct under Section 12 of the Act that the conviction shall not have an adverse effect on his service.",
+        "Direct the offender to pay compensation and cost.",
+        "Direct the offender to furnish bail and bonds to keep peace and good behaviour for three years."
+      ],
+      "correctAnswer": null,
+      "explanation": "Close call. On grant of probation under Section 4 POA the offender executes a bond to appear and receive sentence and to keep peace/good behaviour up to 3 years, so a separate direction to furnish 'bail and bonds to keep peace and good behaviour for three years' (a CrPC Ch.VIII security measure) is the order that does not fit the POA scheme; admonition (s.3), removal of disqualification (s.12) and compensation/costs (s.5) are all permissible.",
+      "reference": "Probation of Offenders Act, 1958, Section 4, s.3, s.12",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The explanation identifies a possible conflict between the keyed order and the statutory probation bond. PDF answer key: D."
+    },
+    {
+      "id": "rjs-2017-054",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 54,
+      "subject": "Evidence",
+      "question": "Two friends A and B were sleeping in a room which was bolted from inside. In the morning, A is found murdered. Under which provision of the Evidence Act, prosecution can claim shifting of burden on B to prove the manner in which the murder took place:",
+      "options": [
+        "Section 114 of the Evidence Act.",
+        "Section 103 of the Evidence Act.",
+        "Section 106 of the Evidence Act.",
+        "Section 101 of the Evidence Act"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Where two persons are in a room bolted from inside and one is found murdered, the fact of how the death occurred is within the special knowledge of the survivor; burden to explain shifts to him under Section 106 of the Evidence Act.",
+      "reference": "Indian Evidence Act, 1872, Section 106",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-055",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 55,
+      "subject": "Criminal Procedure",
+      "question": "An FIR in relation to the offence under Section 406 IPC is lodged on 1.1.2010. The Police conducts investigation and submits a negative Final Report in the Court concerned on 2.2.2012. The Court takes cognizance of the above offence on 3.3.2013. In these circumstances, which of the following is correct",
+      "options": [
+        "The proceedings are barred by limitation.",
+        "The proceedings are not barred by limitation as the offence under Section 406 IPC is a continuing offence.",
+        "The proceedings are not barred by limitation as the FIR was lodged promptly.",
+        "None of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "Section 406 IPC (criminal breach of trust) is treated as a continuing offence; limitation under Section 468 CrPC therefore does not bar the proceedings (and Section 470/473 also save them), so the prosecution is not time-barred.",
+      "reference": "Code of Criminal Procedure, 1973, Section 406, Section 468, Section 470",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The solution's continuing-offence rationale requires verification independently of the case dates. PDF answer key: B."
+    },
+    {
+      "id": "rjs-2017-056",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 56,
+      "subject": "Indian Penal Code",
+      "question": "C being the wife of B, has obtained a decree of separation from the competent Court but they are still living in the same premises. B subjects C to intercourse. Their neighbour A watches the act and files an FIR. Which preposition is correct in these circumstances:",
+      "options": [
+        "B is guilty of the offence punishable under Section 376-B IPC.",
+        "B is not guilty of any offence because C continues to be his legally wedded wife.",
+        "A would be guilty of the offence punishable under Section 354-C IPC.",
+        "None of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "Where the wife is living separately under a decree of separation, sexual intercourse by the husband without her consent is an offence under Section 376-B IPC.",
+      "reference": "Indian Penal Code, 1860, Section 376-B",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The stem and explanation describe the separation circumstances differently. Check the historical IPC provision and cognizance rule. PDF answer key: A."
+    },
+    {
+      "id": "rjs-2017-057",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 57,
+      "subject": "Indian Penal Code",
+      "question": "5 persons take illegal possession of a field. The owner (the complainant party) of the field collects his supporters and goes to the field for oust the trespassers therefrom. In the free fight, which ensues, the trespassers kill one person from the complainant's side. All The accused can be convicted :",
+      "options": [
+        "With the aid of section 34 of IPC.",
+        "With the aid of section 149 of IPC.",
+        "For the individual injuries caused to the members of the complainant party.",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In a sudden 'free fight' there is neither common intention (s.34) nor common object (s.149); each combatant is liable only for the individual injuries he personally caused.",
+      "reference": "Indian Penal Code, 1860, s.34, s.149",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-058",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 58,
+      "subject": "Evidence",
+      "question": "The Investigating Officer conducting investigation of a case under the Narcotic Drugs and Psychotropic Substances Act, 1985 collects the call details of the mobile phones held by the accused from whom recovery of drug was effected and the conspirator, who supplied the drug. Such call details:",
+      "options": [
+        "Can be used as substantive evidence to prove the charge of conspiracy",
+        "Are inadmissible in evidence",
+        "Can be considered relevant only if the conversation held between",
+        "None of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "Call detail records (electronic records) are admissible and, proving contact/association between the recovered-from accused and the supplier-conspirator, can be used as substantive evidence to establish the charge of conspiracy.",
+      "reference": "Indian Evidence Act, 1872, Section 65B (electronic records)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The explanation does not address the conditions for proving electronic records. PDF answer key: A."
+    },
+    {
+      "id": "rjs-2017-059",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 59,
+      "subject": "Criminal Procedure",
+      "question": "In a case involving the offence punishable under Section 304 Part II of IPC, the accused is arrested and the prosecution fails to comply with the requirements of Section 167(2) Cr.P.C. The accused, who is a habitual offender, becomes entitled to compulsive bail on:",
+      "options": [
+        "61st day from the date of his arrest.",
+        "91st day from the date of his arrest.",
+        "The accused is not entitled to be released on compulsive bail .",
+        "None of the above"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Section 304 Part II IPC carries imprisonment up to 10 years (not 10 years or more), so the default-bail period under the proviso to Section 167(2) CrPC is 60 days; the accused becomes entitled to compulsive bail on the 61st day, and habitual-offender status is irrelevant to the statutory right.",
+      "reference": "Code of Criminal Procedure, 1973, Section 304, Section 167(2)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-060",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 60,
+      "subject": "Indian Penal Code",
+      "question": "A Patwari while preparing a revenue record, intentionally enters incorrect facts in the documents and signs & certifies the same with the intention of causing loss to the true owner of the land. The Patwari is guilty of:",
+      "options": [
+        "Offence of creating false/ forged documents punishable under Sections 467 and 468 IPC.",
+        "Offence of using a forged document punishable under Section 471 IPC.",
+        "Offence of criminal breach of trust punishable under Section 406 IPC",
+        "None of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "A public servant (Patwari) who knowingly makes a false entry in a public/revenue record and certifies it to cause loss commits forgery of a record under Sections 467 and 468 IPC (Section 466 dealing with public records), i.e. creating false/forged documents.",
+      "reference": "Indian Penal Code, 1860, Sections 467, Section 466",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The explanation cites differing forgery provisions. Check the public-servant offence and the exact choices. PDF answer key: A."
+    },
+    {
+      "id": "rjs-2017-061",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 61,
+      "subject": "Probation of Offenders",
+      "question": "An accused aged 20 years, having no previous criminal conduct, charged for the offence under Section 304 IPC, is convicted by the trial court. In these circumstances:",
+      "options": [
+        "The trial court is under a mandate of law to release the accused on probation.",
+        "The trial court may release the accused on probation.",
+        "The accused is not entitled to the benefit of probation because the offence is punishable with imprisonment up to 10 years.",
+        "None of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "Section 304 IPC is not punishable with death or life imprisonment mandatorily, so it is not outside Section 4 POA; the court 'may' (discretionary, not mandatory) release a 20-year-old first offender on probation.",
+      "reference": "Probation of Offenders Act, 1958, Section 304, Section 4",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The stem does not identify the part of Section 304. That distinction can affect probation eligibility. PDF answer key: B."
+    },
+    {
+      "id": "rjs-2017-062",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 62,
+      "subject": "Criminal Procedure",
+      "question": "In which judgement, Hon'ble Supreme Court has laid down that the Police cannot refuse registration of an FIR on the ground of lack of jurisdiction:",
+      "options": [
+        "Manish Ratan Vs. State of M.P.; 2007(1) SCC 336",
+        "Amarendu Jyoti Vs. State of Chhattisgarh; 2014(6) Criminal 719",
+        "Rasiklal Dalpatram Thakkar Vs. State of Gujarat & Ors.; AIR 2010 SC 715",
+        "Y.Abraham Ajith & Ors. Vs. Inspector of Police, Chennai & Ors.; AIR 2004 SC 4286"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In Rasiklal Dalpatram Thakkar v. State of Gujarat (AIR 2010 SC 715), the Supreme Court held that the investigating agency/police cannot refuse to register/investigate a complaint merely on the ground of lack of territorial jurisdiction.",
+      "reference": "Rasiklal Dalpatram Thakkar v. State of Gujarat, AIR 2010 SC 715",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-063",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 63,
+      "subject": "Negotiable Instruments",
+      "question": "In which judgement, under the Negotiable Instruments Act, 1881 the Hon'ble Supreme Court held that though compounding requires consent of both the parties, but even in absence of such consent, the Court can, in the interest of justice, on being satisfied that the complainant has been duly compensated, in its discretion, close the proceedings and discharge the accused:",
+      "options": [
+        "Madhya Pradesh State Legal Service Authority Vs. Prateek Jain; 2015(1) SCC (Cri) 211",
+        "Metres and Instruments Private Limited Vs. Kanchan Mehta; AIR 2017 SC 4594",
+        "JIK Industries Ltd. Vs. Amarlal V. Jumani & Anr.; AIR 2012 SC 10",
+        "Damodar S.Prabhu Vs. Sayyed Bala Lal H.; AIR 2010 SC 1907"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In Meters and Instruments Pvt. Ltd. v. Kanchan Mehta (AIR 2017 SC 4594), the Supreme Court held that though compounding under the NI Act needs both parties' consent, the court may even without consent, on being satisfied the complainant is duly compensated, in its discretion close the proceedings and discharge the accused.",
+      "reference": "Meters and Instruments Pvt. Ltd. v. Kanchan Mehta, AIR 2017 SC 4594",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": "Historical case-identification question. Check later Supreme Court treatment before relying on the stated procedure."
+    },
+    {
+      "id": "rjs-2017-064",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 64,
+      "subject": "Criminal Procedure",
+      "question": "In which of the following judgments, the Hon'ble Supreme Court has laid down that the competent Magistrate can direct the Police to conduct thorough and fair investigation into an FIR:",
+      "options": [
+        "Hasan Bhai Wali Bhai Qureshi Vs. State of Gujarat; AIR 2004 SC 2078",
+        "Sakiri Vasu Vs. State of U.P.; AIR 2008 SC 907",
+        "Rashmi Behl Vs. State of U.P. & Ors.; AIR 2015 SC 776",
+        "Aziza Begum Vs. Sate of Maharashtra; 2012 (b) SCC (Cri.) 61"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In Sakiri Vasu v. State of U.P. (AIR 2008 SC 907), the Supreme Court held that a Magistrate under Section 156(3) CrPC has wide power to direct registration of an FIR and to order a thorough and fair investigation, and even monitor it.",
+      "reference": "Sakiri Vasu v. State of U.P., AIR 2008 SC 907; CrPC, Section 156(3)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-065",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 65,
+      "subject": "Evidence",
+      "question": "In which judgement, the Hon'ble Supreme Court has laid down that a party, who is desirous of proving electronic evidence but does not have access to the device from which, the document was produced, is not required to produce and prove the certificate under Section 65-B of the Evidence Act:",
+      "options": [
+        "State of Delhi NCT VS. Navjot Sandhu @ Afsan Guru; AIR 2005 SC 3826",
+        "Harpal Singh @ Chhota Vs. State of Punjab; 2016(4) Crimes 154",
+        "Anvar P.V. Vs. P.K.Bashir; AIR 2015 SC 180",
+        "Shafi Mohd. Vs. State of Himachal Pradesh; SLP (Cri) No.3202/2017, decided on 30.1.2018"
+      ],
+      "correctAnswer": null,
+      "explanation": "In Shafhi Mohammad v. State of Himachal Pradesh (SLP (Cri) No.2302/2017, dt. 30.01.2018), the Supreme Court held that a party not in possession/control of the device from which the electronic record was produced is not required to furnish the Section 65-B certificate.",
+      "reference": "Shafhi Mohammad v. State of Himachal Pradesh; Evidence Act, Section 65B",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The case number in the keyed option differs from the explanation. PDF answer key: D. Historical case-identification question. Check later Supreme Court authority on electronic evidence."
+    },
+    {
+      "id": "rjs-2017-066",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 66,
+      "subject": "Criminal Procedure",
+      "question": "In which judgement, the Hon'ble Supreme Court has laid down that having taken cognizance of a case, the Magistrate cannot direct the Police to conduct further investigation:",
+      "options": [
+        "State of Haryana Vs. Choudhary Bhajan Lal; AIR 1992 SC 604",
+        "M/s. Jayanti Vitamin Vs. Chaitanya Kumar; AIR 1992 SC 1930",
+        "Amrutbhai Shambhubhai Patel Vs. Sumanbhai Kantibhai Patel & Ors.; AIR 2017 SC774",
+        "Hemant Dhasmana Vs. CBI; AIR 2001 SC 2721"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In Amrutbhai Shambhubhai Patel v. Sumanbhai Kantibhai Patel (AIR 2017 SC 774), the Supreme Court held that once cognizance is taken and the accused has appeared, the Magistrate cannot suo motu (or on the complainant's request) direct further investigation.",
+      "reference": "Amrutbhai Shambhubhai Patel v. Sumanbhai Kantibhai Patel, AIR 2017 SC 774",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": "Historical case-identification question. Check later Supreme Court authority on further investigation."
+    },
+    {
+      "id": "rjs-2017-067",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 67,
+      "subject": "Electricity Act",
+      "question": "A competent Court, shall take cognizance of an offence punishable under The Electricity Act, 2003:",
+      "options": [
+        "Upon a complaint in writing made by any general person.",
+        "Upon an oral complaint made by a Chief Electrical Inspector.",
+        "Upon a complaint in writing made by licencee or generating company",
+        "Upon none of the above"
+      ],
+      "correctAnswer": null,
+      "explanation": "Under Section 151 of the Electricity Act, 2003, a court takes cognizance only upon a complaint in writing made by the appropriate Government/Commission or their authorised officer, a Chief/Electrical Inspector, or a licensee or generating company.",
+      "reference": "Electricity Act, 2003, Section 151",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The explanation omits the statutory route for cognizance on a police report. PDF answer key: C."
+    },
+    {
+      "id": "rjs-2017-068",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 68,
+      "subject": "POCSO",
+      "question": "Under the provisions of Protection of Children from Sexual Offences Act, 2012, can a report be published by the media, which discloses the identity of a sexually assaulted child:",
+      "options": [
+        "Cannot be published.",
+        "Can be published in public interest.",
+        "Can be published, if permitted by a competent Special Court.",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under Section 23 of the POCSO Act, 2012 the media cannot disclose the identity of the child victim, but the Special Court competent to do so may, for reasons recorded in writing, permit such disclosure if it is in the child's interest.",
+      "reference": "Protection of Children from Sexual Offences Act, 2012, Section 23",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-069",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 69,
+      "subject": "Criminal Procedure",
+      "question": "Police Officer, in all cases where the arrest of a person is not required under section 41(1) of Cr.P.C., against whom, a reasonable complaint has been made that he has committed a cognizable offence, then:",
+      "options": [
+        "Police Officer may without an order from a Magistrate and without a warrant, arrest such person",
+        "Police Officer shall issue a notice directing that person to appear before him or at such other place, as may be specified in the notice.",
+        "A Police Officer, while recording his reasons in writing, can arrest such a person.",
+        "Police officers can do all the above."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under Section 41-A CrPC, in all cases where arrest is not required under Section 41(1), the police officer shall issue a notice directing the person to appear before him or at the specified place.",
+      "reference": "Code of Criminal Procedure, 1973, Section 41-A, Section 41(1)",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-070",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 70,
+      "subject": "Rajasthan General Rules (Criminal)",
+      "question": "If a Magistrate of a Court, requiring to examine at his private residence, a record of a case in his Court, he:",
+      "options": [
+        "May take charge of such record without any permission.",
+        "May take charge of such record with prior permission of concerned District & Sessions Judge.",
+        "May take charge of such record with prior permission of concerned High Court.",
+        "Can not take charge of such record."
+      ],
+      "correctAnswer": null,
+      "explanation": "A Presiding Magistrate of the court to which the record belongs may take charge of the record of a case pending in his own court to examine it at his private residence without requiring any superior's permission under the General Rules (Civil).",
+      "reference": "Rajasthan General Rules (Criminal), 1980",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "Verify the applicable rule for a criminal case record. The supplied explanation cites the Civil Rules. PDF answer key: A."
+    },
+    {
+      "id": "rjs-2017-071",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 71,
+      "subject": "English",
+      "question": "Choose the correct alternative that expresses the 'Future Perfect' tense",
+      "options": [
+        "She will be completing her assignment",
+        "She will complete her assignment",
+        "She is completing her assignment.",
+        "She will have completed her assignment by midnight."
+      ],
+      "correctAnswer": 3,
+      "explanation": "'She will have completed her assignment by midnight' is the future perfect tense (will have + past participle).",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-072",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 72,
+      "subject": "English",
+      "question": "'He has just _______ out of the room in a rage.' Supply the correct form of verb from the given alternatives",
+      "options": [
+        "Flinged",
+        "Flung",
+        "Flung",
+        "Flanged"
+      ],
+      "correctAnswer": null,
+      "explanation": "The past participle of 'fling' is 'flung' (He has just flung out of the room); options (b) and (c) are identical 'Flung', the intended correct form.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The PDF repeats option text. PDF answer key: B."
+    },
+    {
+      "id": "rjs-2017-073",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 73,
+      "subject": "English",
+      "question": ". _______ man is the only animal that uses fire.",
+      "options": [
+        "X",
+        "The",
+        "A",
+        "An"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Man is the only animal that uses fire' uses 'man' generically (whole class) and takes no article; option (a) 'X' denotes the zero/no article.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-074",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 74,
+      "subject": "English",
+      "question": "He has hardly _______ money for his survival.",
+      "options": [
+        "Few",
+        "A few",
+        "Some",
+        "Any"
+      ],
+      "correctAnswer": 3,
+      "explanation": "With the adverb 'hardly' (a negative), the correct quantifier with an uncountable noun is 'any': 'He has hardly any money for his survival.'",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-075",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 75,
+      "subject": "English",
+      "question": "As the enemy was closing in, we decided to stay away.' The phrase 'close in' means",
+      "options": [
+        "Shoot out",
+        "Go away",
+        "Come nearer",
+        "Win"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The phrasal verb 'close in' means to come nearer / approach (often menacingly).",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-076",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 76,
+      "subject": "English",
+      "question": "When someone says, \"I am out of the woods now\", he means that",
+      "options": [
+        "He has come out of the forest.",
+        "He has destroyed all the woods",
+        "He is no longer in danger or difficulty.",
+        "He does not want to live in forest"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The idiom 'out of the woods' means no longer in danger or difficulty.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-077",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 77,
+      "subject": "English",
+      "question": "Choose the correct passive voice of the following sentence. 'We must not look down on the poor.'",
+      "options": [
+        "The poor must not looked down upon by us.",
+        "The poor must not be looked on by us",
+        "The poor must not be looked down on by us.",
+        "The poor must not be looked down on by us."
+      ],
+      "correctAnswer": null,
+      "explanation": "Passive of 'We must not look down on the poor' is 'The poor must not be looked down on by us.' Options (c) and (d) are printed identically; (c) chosen as first correct instance.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "needs-review",
+      "note": "The PDF repeats option text. PDF answer key: C."
+    },
+    {
+      "id": "rjs-2017-078",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 78,
+      "subject": "English",
+      "question": "Identify the sentence which is not written in passive voice",
+      "options": [
+        "Utmost care has to be taken",
+        "Being a student, you must work hard.",
+        "He was being chased.",
+        "The case has been set aside by the court."
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Being a student, you must work hard' is active voice; the other three are passive constructions.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-079",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 79,
+      "subject": "English",
+      "question": "Complete the following sentence with the correct coordinating conjunction. \"I had studied a lot, _______ I did really well on the test.",
+      "options": [
+        "So",
+        "For",
+        "But",
+        "Yet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cause-and-result requires 'so': 'I had studied a lot, so I did really well on the test.'",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-080",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 80,
+      "subject": "English",
+      "question": "Complete the following sentence with correct subordinating conjunction: 'You can only play outside _______ your father gets home.'",
+      "options": [
+        "Whereas",
+        "Until",
+        "In case",
+        "Because"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Until' fits: 'You can only play outside until your father gets home' (time-based subordinating conjunction).",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-081",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 81,
+      "subject": "English",
+      "question": "She said, \"Merry Christmas!\" Which of the following is the correct indirect speech of the above statement:",
+      "options": [
+        "She told me Merry Christmas.",
+        "She said that Christmas was Merry.",
+        "She wished me a Merry Christmas.",
+        "She called me a Merry Christmas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "An exclamation of greeting in reported speech uses 'wished': 'She wished me a Merry Christmas.'",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-082",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 82,
+      "subject": "English",
+      "question": "Which of the following sentences uses the modal 'would' to express a wish or desire:",
+      "options": [
+        "Would that I had made contact with him before his departure.",
+        "Would you mind opening the window?",
+        "She would look at the stars for hours when she was a child.",
+        "She would not follow my advice."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Would that I had made contact with him before his departure' uses 'would' to express a wish/desire.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-083",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 83,
+      "subject": "English",
+      "question": "Which of the following sentences expresses suggestion",
+      "options": [
+        "Will I close the door?",
+        "Shall I close the door?",
+        "May I close the door?",
+        "Could I close the door?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Shall I close the door?' offers/suggests an action; 'shall I' is used for suggestions and offers.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-084",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 84,
+      "subject": "English",
+      "question": "Pick the correct synonym for the word 'robust\":",
+      "options": [
+        "Strong",
+        "Frail",
+        "Infirm",
+        "Noxious"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Robust' means strong and sturdy; 'strong' is the synonym (frail/infirm are antonyms).",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    },
+    {
+      "id": "rjs-2017-085",
+      "year": 2017,
+      "paper": "Prelims",
+      "sourceQuestion": 85,
+      "subject": "English",
+      "question": ". Choose the word which is opposite in meaning to the word \"Veracity\"",
+      "options": [
+        "Truthfulness",
+        "Probity",
+        "Mendacity",
+        "Integrity"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Veracity' means truthfulness; its opposite is 'mendacity' (lying/falsehood). Truthfulness, probity, integrity are synonyms.",
+      "reference": "",
+      "sourceUrl": "https://lawmock.com/rjs/previous-year-papers/prelims-2017",
+      "status": "ready",
+      "note": ""
+    }
+  ]
+}
