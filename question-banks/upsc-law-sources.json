@@ -1,0 +1,101 @@
+{
+  "examId": "upsc-law",
+  "generatedOn": "2026-11-23",
+  "researchMethod": {
+    "primaryRule": "Primary/official sources were preferred for the syllabus and substantive law.",
+    "pyqRule": "UPSC Prelims overlap questions are adapted/paraphrased and tagged by year; official UPSC previous-paper pages are the canonical source.",
+    "explanationRule": "Lex Academy explanations are independently written; third-party coaching solution prose is not copied."
+  },
+  "sources": [
+    {
+      "category": "UPSC",
+      "title": "UPSC Civil Services Examination 2026 Notice - Law Optional syllabus",
+      "url": "https://upsc.gov.in/uploads/2026/05/Civil-Services-Preliminary-Examination-2026-Notice-E.pdf",
+      "use": "Defines the Law Optional subject scope used to structure the bank."
+    },
+    {
+      "category": "UPSC",
+      "title": "UPSC Previous Year Question Papers",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "use": "Canonical source for Civil Services Preliminary Examination papers and year tagging."
+    },
+    {
+      "category": "Constitutional Law",
+      "title": "Constitution of India - Legislative Department",
+      "url": "https://legislative.gov.in/constitution-of-india/",
+      "use": "Constitutional provisions, institutions, rights, duties, emergency and amendment questions."
+    },
+    {
+      "category": "Indian Statutes",
+      "title": "India Code",
+      "url": "https://www.indiacode.nic.in/",
+      "use": "Primary statutory source for Contract, Sale of Goods, Partnership, Negotiable Instruments, Arbitration, RTI, IT, environmental, consumer and other legislation."
+    },
+    {
+      "category": "Criminal Law",
+      "title": "Bharatiya Nyaya Sanhita, 2023",
+      "url": "https://www.indiacode.nic.in/",
+      "use": "Current substantive criminal-law questions."
+    },
+    {
+      "category": "Criminal Procedure",
+      "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "url": "https://www.indiacode.nic.in/",
+      "use": "Current criminal-procedure and plea-bargaining questions."
+    },
+    {
+      "category": "Evidence",
+      "title": "Bharatiya Sakshya Adhiniyam, 2023",
+      "url": "https://www.indiacode.nic.in/",
+      "use": "Current evidence-law questions."
+    },
+    {
+      "category": "International Law",
+      "title": "United Nations Convention on the Law of the Sea",
+      "url": "https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf",
+      "use": "Territorial sea, contiguous zone, EEZ, continental shelf and high seas."
+    },
+    {
+      "category": "International Law",
+      "title": "Charter of the United Nations",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "use": "UN organs, peaceful settlement, Security Council and self-defence."
+    },
+    {
+      "category": "International Criminal Law",
+      "title": "Rome Statute of the International Criminal Court",
+      "url": "https://www.icc-cpi.int/sites/default/files/Publications/Rome-Statute.pdf",
+      "use": "ICC jurisdiction, crimes and complementarity."
+    },
+    {
+      "category": "International Trade",
+      "title": "World Trade Organization",
+      "url": "https://www.wto.org/",
+      "use": "WTO, GATT, TRIPS and trade-law concepts."
+    },
+    {
+      "category": "Environment",
+      "title": "UNFCCC - Paris Agreement",
+      "url": "https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement",
+      "use": "International environmental-law questions."
+    },
+    {
+      "category": "Data Protection",
+      "title": "Digital Personal Data Protection Act, 2023 - India Code",
+      "url": "https://www.indiacode.nic.in/",
+      "use": "Data Principal, Data Fiduciary, child, Data Protection Board and phased commencement."
+    },
+    {
+      "category": "ADR",
+      "title": "Mediation Act, 2023 - India Code",
+      "url": "https://www.indiacode.nic.in/",
+      "use": "Mediation, online mediation and mediated settlement questions."
+    },
+    {
+      "category": "Intellectual Property",
+      "title": "Patents Act, 1970 and Copyright Act, 1957 - India Code",
+      "url": "https://www.indiacode.nic.in/",
+      "use": "Patentability, compulsory licensing, copyright and related IPR questions."
+    }
+  ]
+}
