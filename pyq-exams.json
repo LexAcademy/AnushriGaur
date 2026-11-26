@@ -18,6 +18,18 @@
       "description": "Practise questions from the supplied 2015 and 2017 Rajasthan Civil Judge prelims papers.",
       "guideUrl": "rjs-guidance.html",
       "bank": "question-banks/rjs.json"
+    },
+    {
+      "id": "upsc-law",
+      "name": "UPSC Law",
+      "pageTitle": "UPSC Law MCQ Practice – 450 Questions",
+      "eyebrow": "UPSC LAW OPTIONAL · INTERACTIVE MCQs",
+      "description": "Practice 450 UPSC Law MCQs across Constitutional Law, Administrative Law, International Law, Crimes, Torts, Contracts, Mercantile Law and Contemporary Legal Developments. Previous UPSC Prelims overlaps are marked by exam year.",
+      "guideUrl": "index.html#programs",
+      "bank": "question-banks/upsc-law.json",
+      "attemptLimit": 50,
+      "attemptLimitRedirect": "index.html#enquiry",
+      "attemptLimitMessage": "You have completed 50 free UPSC Law MCQs. Continue through the Lex Academy enquiry form."
     }
   ]
 }
