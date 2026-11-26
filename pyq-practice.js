@@ -3,11 +3,13 @@
 
 const CONFIG_URL = "pyq-exams.json";
 const params = new URLSearchParams(location.search);
-const examKey = params.get("exam") || "gujarat-judiciary";
+const fixedExam = document.querySelector("main[data-exam]")?.dataset.exam;
+const examKey = fixedExam || params.get("exam") || "gujarat-judiciary";
 
-let config = null;
-let bank = null;
+let activeExam;
+let attemptedIds = new Set();
 let allQuestions = [];
+let questionsById = new Map();
 let sessionQuestions = [];
 let queue = [];
 let answers = {};
@@ -20,7 +22,7 @@ const els = {};
 function cacheEls(){
   [
     "examEyebrow","examTitle","examDescription","bankCount","yearCount","sessionScope",
-    "sessionSummary","backToExamPage","yearFilter","subjectFilter","orderFilter",
+    "sessionSummary","backToExamPage","attemptLimitNotice","yearFilter","subjectFilter","orderFilter",
     "startFilteredSession","answeredCount","sessionCount","correctCount","wrongCount",
     "remainingCount","progressBar","resumeButton","restartButton","questionNavigator",
     "navigatorCaption","coverageText","yearBreakdown","loadingState","errorState","errorText",
@@ -78,7 +80,7 @@ function normalizeBank(raw){
 }
 
 async function loadJson(url){
-  const response = await fetch(url,{cache:"no-store"});
+  const response = await fetch(url);
   if(!response.ok) throw new Error("Could not load " + url + " (" + response.status + ")");
   return response.json();
 }
@@ -86,14 +88,16 @@ async function loadJson(url){
 async function boot(){
   cacheEls();
   try{
-    config = await loadJson(CONFIG_URL);
-    const exam = (config.exams || []).find(x => x.id === examKey);
-    if(!exam) throw new Error("Unknown exam: " + examKey);
+    const config = await loadJson(CONFIG_URL);
+    activeExam = (config.exams || []).find(x => x.id === examKey);
+    if(!activeExam) throw new Error("Unknown exam: " + examKey);
 
-    bank = await loadJson(exam.bank);
+    const bank = await loadJson(activeExam.bank);
     allQuestions = normalizeBank(bank);
+    questionsById = new Map(allQuestions.map(question => [qid(question), question]));
 
-    applyExamMeta(exam);
+    applyExamMeta(activeExam);
+    if(activeExam.attemptLimit) refreshAttemptedIds();
     buildFilters();
     buildCoverage();
     wireEvents();
@@ -111,18 +115,61 @@ async function boot(){
 }
 
 function applyExamMeta(exam){
-  document.title = (exam.pageTitle || exam.name + " PYQ Practice") + " | Lex Academy";
-  const metaDesc = document.querySelector('meta[name="description"]');
-  if(metaDesc && exam.description) metaDesc.setAttribute("content", exam.description);
-
-  els.examEyebrow.textContent = exam.eyebrow || "PREVIOUS YEAR QUESTIONS";
-  els.examTitle.textContent = exam.name + " - Interactive PYQ Practice";
-  els.examDescription.textContent = exam.description || "Practice the complete question bank.";
-  els.backToExamPage.href = exam.guideUrl || "index.html";
+  if(!fixedExam){
+    document.title = (exam.pageTitle || exam.name + " PYQ Practice") + " | Lex Academy";
+    els.examEyebrow.textContent = exam.eyebrow || "PREVIOUS YEAR QUESTIONS";
+    els.examTitle.textContent = exam.pageTitle || exam.name + " PYQ Practice";
+    els.examDescription.textContent = exam.description || "Practice the question bank.";
+    els.backToExamPage.href = exam.guideUrl || "./";
+  }
   els.bankCount.textContent = allQuestions.length;
 
-  const years=[...new Set(allQuestions.map(q=>String(q.year)))].sort((a,b)=>Number(b)-Number(a));
-  els.yearCount.textContent = years.length;
+  const years = new Set(allQuestions.filter(q => /^\d{4}$/.test(q.year)).map(q => String(q.year)));
+  els.yearCount.textContent = years.size;
+}
+
+function attemptStorageKey(){
+  return "lexacademy_mcq_attempts_" + examKey;
+}
+
+function refreshAttemptedIds(){
+  try{
+    const saved = JSON.parse(localStorage.getItem(attemptStorageKey()) || "null");
+    if(Array.isArray(saved)){
+      saved.forEach(id => attemptedIds.add(id));
+      return;
+    }
+    // Count answers saved by the previous engine across all filter combinations.
+    const prefix = "lexacademy_pyq_" + examKey + "_";
+    for(let i=0;i<localStorage.length;i++){
+      const key = localStorage.key(i);
+      if(!key?.startsWith(prefix)) continue;
+      try{
+        const session = JSON.parse(localStorage.getItem(key));
+        for(const [id, answer] of Object.entries(session?.answers || {})){
+          if(questionsById.has(id) && Number.isInteger(answer?.selected)) attemptedIds.add(id);
+        }
+      }catch(e){}
+    }
+    localStorage.setItem(attemptStorageKey(), JSON.stringify([...attemptedIds]));
+  }catch(e){}
+}
+
+function canContinue(targetId){
+  if(!activeExam.attemptLimit) return true;
+  refreshAttemptedIds();
+  if(attemptedIds.size < activeExam.attemptLimit || attemptedIds.has(targetId)) return true;
+  location.assign(activeExam.attemptLimitRedirect);
+  return false;
+}
+
+function renderAttemptNotice(){
+  const limit = activeExam.attemptLimit;
+  if(!limit) return;
+  els.attemptLimitNotice.hidden = false;
+  els.attemptLimitNotice.textContent = attemptedIds.size >= limit
+    ? activeExam.attemptLimitMessage
+    : Math.max(0, limit - attemptedIds.size) + " of " + limit + " free questions remaining.";
 }
 
 function buildFilters(){
@@ -232,7 +279,7 @@ function updateSessionCopy(filters){
 }
 
 function getQuestionById(id){
-  return allQuestions.find(q=>qid(q)===id);
+  return questionsById.get(id);
 }
 
 function currentQuestion(){
@@ -253,6 +300,7 @@ function getStats(){
 }
 
 function render(){
+  renderAttemptNotice();
   const q=currentQuestion();
   const stats=getStats();
 
@@ -335,6 +383,11 @@ function renderOptions(q){
 function answer(index){
   const q=currentQuestion();
   if(!q || q.correctAnswer===null) return;
+  if(!canContinue(qid(q))) return;
+  if(activeExam.attemptLimit){
+    attemptedIds.add(qid(q));
+    try{localStorage.setItem(attemptStorageKey(), JSON.stringify([...attemptedIds]));}catch(e){}
+  }
   answers[qid(q)]={selected:index,answeredAt:new Date().toISOString()};
   saveState();
   render();
@@ -375,7 +428,9 @@ function renderNavigator(){
     if(a && q && Number.isInteger(a.selected)){
       b.classList.add(a.selected===q.correctAnswer ? "correct" : "wrong");
     }
-    b.addEventListener("click",()=>{current=index;render();scrollPractice();});
+    b.addEventListener("click",()=>{
+      if(canContinue(id)){current=index;render();scrollPractice();}
+    });
     els.questionNavigator.appendChild(b);
   });
 }
@@ -394,6 +449,7 @@ function renderCompletion(stats){
 }
 
 function next(){
+  if(!canContinue()) return;
   if(current<queue.length-1){ current++;render();scrollPractice();return; }
   const stats=getStats();
   if(stats.answered<queue.length){
@@ -407,6 +463,7 @@ function next(){
 function previous(){ if(current>0){current--;render();scrollPractice();} }
 
 function skip(){
+  if(!canContinue()) return;
   if(current<queue.length-1){current++;render();scrollPractice();}
   else{
     const idx=queue.findIndex(id=>!answers[id]);
@@ -420,6 +477,7 @@ function scrollPractice(){
 }
 
 function restart(){
+  if(!canContinue()) return;
   if(!confirm("Restart this practice session and clear its answers?")) return;
   answers={};current=0;
   const filters=readFilters();
@@ -438,7 +496,9 @@ function reviewWrong(){
 }
 
 function wireEvents(){
-  els.startFilteredSession.addEventListener("click",()=>startSession(readFilters(),true));
+  els.startFilteredSession.addEventListener("click",()=>{
+    if(canContinue()) startSession(readFilters(),true);
+  });
   els.previousButton.addEventListener("click",previous);
   els.nextButton.addEventListener("click",next);
   els.skipButton.addEventListener("click",skip);
@@ -446,6 +506,7 @@ function wireEvents(){
   els.resumeButton.addEventListener("click",()=>startSession(readFilters(),true));
   els.reviewWrongButton.addEventListener("click",reviewWrong);
   els.newRunButton.addEventListener("click",()=>{
+    if(!canContinue()) return;
     els.yearFilter.value="all";
     els.subjectFilter.value="all";
     els.orderFilter.value="shuffle";

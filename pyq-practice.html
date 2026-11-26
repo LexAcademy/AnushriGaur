@@ -3,46 +3,51 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Interactive PYQ Practice | Lex Academy</title>
-<meta name="description" content="Practice previous year questions interactively with instant answer feedback, explanations, progress tracking and full question-bank coverage at Lex Academy.">
-<meta name="robots" content="index,follow,max-image-preview:large">
-<link rel="canonical" href="https://lexacademy.in/pyq-practice.html">
-<meta property="og:title" content="Interactive PYQ Practice | Lex Academy">
-<meta property="og:description" content="Practice complete previous-year question banks with instant answers, explanations and progress tracking.">
-<meta property="og:url" content="https://lexacademy.in/pyq-practice.html">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="Lex Academy">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Playfair+Display:wght@500;600;700&amp;display=swap">
 <link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="pyq-practice.css">
 <script defer src="config.js"></script>
 <script defer src="app.js"></script>
 <script defer src="pyq-practice.js"></script>
+<title>Interactive Quiz Practice | Lex Academy</title>
+<meta name="description" content="Open a Lex Academy practice session for Gujarat Judiciary, Rajasthan Judiciary or UPSC Law.">
+<meta name="robots" content="noindex,follow">
+<meta property="og:title" content="Interactive Quiz Practice | Lex Academy">
+<meta property="og:description" content="Open a Lex Academy practice session for Gujarat Judiciary, Rajasthan Judiciary or UPSC Law.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Lex Academy">
+<meta property="og:locale" content="en_IN">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
 <header>
-  <a class="brand" href="index.html">
+  <a class="brand" href="./">
     <span class="brand-mark">Lex</span>
     <span>LEX <b>ACADEMY</b><small>UPSC & Judicial Service Examination Guidance by ANUSHRI GAUR</small></span>
   </a>
-  <button id="menu" aria-label="Open menu">☰</button>
-  <nav id="nav">
-    <a href="index.html#educator">Educator</a>
-    <a href="index.html#programs">Test Series</a>
-    <a href="index.html#mentorship">Mentorship</a>
+  <button id="menu" type="button" aria-label="Toggle navigation" aria-controls="nav" aria-expanded="false">☰</button>
+  <nav id="nav" aria-label="Main navigation">
+    <a href="./#educator">Educator</a>
+    <a href="./#programs">Test Series</a>
+    <a href="./#mentorship">Mentorship</a>
     <a href="gujarat-judiciary-guidance.html">Gujarat Judiciary</a>
-    <a href="index.html#contact">Contact Us</a>
-    <a href="index.html#enquiry" class="nav-cta">Enquire Now</a>
+    <a href="./#contact">Contact Us</a>
+    <a href="judiciary-mcq-practice.html">MCQ Practice</a><a href="./#enquiry" class="nav-cta">Enquire Now</a>
   </nav>
 </header>
 
-<main class="lpq-page">
+<main class="lpq-page" id="main-content" tabindex="-1">
 
 <section class="lpq-hero">
   <div class="lpq-wrap lpq-hero-grid">
     <div>
       <p class="lpq-eyebrow" id="examEyebrow">PREVIOUS YEAR QUESTIONS</p>
-      <h1 id="examTitle">Interactive PYQ Practice</h1>
+      <h1 id="examTitle">Interactive Quiz Practice</h1><p><a href="judiciary-mcq-practice.html">Browse all exam practice banks</a></p>
       <p class="lpq-lead" id="examDescription">Loading question bank…</p>
       <div class="lpq-meta">
         <span><strong id="bankCount">0</strong> questions in bank</span>
@@ -57,7 +62,7 @@
       <strong id="sessionScope">Full Question Bank</strong>
       <p id="sessionSummary">Preparing your question queue…</p>
       <div id="attemptLimitNotice" class="lpq-access-note" hidden></div>
-      <a id="backToExamPage" href="index.html">View exam guide →</a>
+      <a id="backToExamPage" href="./">View exam guide →</a>
     </aside>
   </div>
 </section>
@@ -202,20 +207,20 @@
 </main>
 <footer>
   <div>
-    <a class="brand footer-brand" href="index.html">
+    <a class="brand footer-brand" href="./">
       <span class="brand-mark">Lex</span>
       <span>LEX <b>ACADEMY</b><small>UPSC Law Optional & Judicial Service Examination Guidance</small></span>
     </a>
     <p>Think like a lawyer. Write like a topper.</p>
   </div>
-  <nav>
-    <a href="index.html">Home</a>
+  <nav aria-label="Footer navigation">
+    <a href="./">Home</a>
     <a href="gujarat-judiciary-guidance.html">Gujarat Judiciary</a>
-    <a href="pyq-practice.html?exam=gujarat-judiciary">PYQ Practice</a>
-    <a href="index.html#programs">Test Series</a>
+    <a href="gujarat-judiciary-mcq.html">PYQ Practice</a>
+    <a href="./#programs">Test Series</a>
     <a href="privacy.html">Privacy</a>
     <a href="terms.html">Terms & Refunds</a>
-  </nav>
+  <a href="judiciary-mcq-practice.html">MCQ Practice</a></nav>
   <small>© <span id="year"></span> Lex Academy. All rights reserved.</small>
 </footer>
 

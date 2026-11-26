@@ -3,12 +3,18 @@ document.addEventListener("DOMContentLoaded", () => {
   const menu = document.getElementById("menu");
   const nav = document.getElementById("nav");
 
-  menu?.addEventListener("click", () => nav.classList.toggle("open"));
+  menu?.addEventListener("click", () => {
+    menu.setAttribute("aria-expanded", String(nav?.classList.toggle("open") ?? false));
+  });
   nav?.querySelectorAll("a").forEach(a =>
-    a.addEventListener("click", () => nav.classList.remove("open"))
+    a.addEventListener("click", () => {
+      nav.classList.remove("open");
+      menu?.setAttribute("aria-expanded", "false");
+    })
   );
 
-  document.getElementById("year").textContent = new Date().getFullYear();
+  const year = document.getElementById("year");
+  if (year) year.textContent = new Date().getFullYear();
 
   const direct = document.getElementById("directFormLink");
   if (direct) direct.hidden = true;
